@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: bde92147ca361f24daac242612b4f890
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - concealLight: {fileID: 5449402073240399334, guid: ba83ad871b18cd54b8c6601594f0f6b3,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

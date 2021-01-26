@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - F0-1
+  - F0-2
+  - Esponja
+  - Escoba
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - DraggableElements
+  - CleaningTools
+  - BoundriesZone
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Hard Backgrounds
+    uniqueID: 2270618673
+    locked: 0
+  - name: Relevant Backgrounds
+    uniqueID: 3363924333
+    locked: 0
+  - name: Elements
+    uniqueID: 2026858441
+    locked: 0
+  - name: Foreground
+    uniqueID: 3944166805
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: MMButtons
+    uniqueID: 2325365261
+    locked: 0
+  - name: HUD
+    uniqueID: 2004278139
+    locked: 0
+  - name: Pause/RCastBlocker
+    uniqueID: 2701208103
+    locked: 0
+  - name: Dialogue
+    uniqueID: 2151000069
+    locked: 0
+  - name: Transitions
+    uniqueID: 3350150873
+    locked: 0

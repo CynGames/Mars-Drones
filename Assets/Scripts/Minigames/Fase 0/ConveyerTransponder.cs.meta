@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 80982ef6cfc4c2746853f78d6ffde61c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - TransponderLight: {fileID: 3436010645935693063, guid: 0aac22c0f43d7c24c973d2bbc45277f5,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
