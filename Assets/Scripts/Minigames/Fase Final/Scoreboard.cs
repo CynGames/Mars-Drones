@@ -23,7 +23,7 @@ public class Scoreboard : MonoBehaviour
 
     private void Awake()
     {
-        AudioManager.Instance.PlayMusic(MusicLibrary.reversedMusicDict[bgm]);
+        //AudioManager.Instance.PlayMusic(MusicLibrary.reversedMusicDict[bgm]);
     }
 
     private void Start()

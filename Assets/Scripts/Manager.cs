@@ -12,7 +12,7 @@ public abstract class Manager : MonoBehaviour
 
     private void Start()
     {
-        AudioManager.Instance.PlayMusic(MusicLibrary.reversedMusicDict[bgm]);
+        //AudioManager.Instance.PlayMusic(MusicLibrary.reversedMusicDict[bgm]);
     }
 
     public abstract void MinigameOver();

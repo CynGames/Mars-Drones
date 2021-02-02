@@ -1,4 +1,5 @@
-﻿using CrunchTools.AudioSystem;
+﻿using System;
+using CrunchTools.AudioSystem;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -37,5 +38,13 @@ public class MMButtons : MonoBehaviour
     {
         AnalyticsEvent.ScreenVisit(ScreenName.Credits);
         ButtonsFunctions.Instance.ChangeScene("Credits");
+    }
+
+    private void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            QuitGame();
+        }
     }
 }
