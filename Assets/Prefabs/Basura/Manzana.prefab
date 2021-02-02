@@ -357,7 +357,7 @@ GameObject:
   - component: {fileID: -3792943059015914121}
   - component: {fileID: 1423299384532768825}
   - component: {fileID: 7921148670262018677}
-  m_Layer: 8
+  m_Layer: 2
   m_Name: Manzana
   m_TagString: Untagged
   m_Icon: {fileID: 0}

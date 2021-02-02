@@ -185,7 +185,7 @@ GameObject:
   - component: {fileID: 394750911}
   - component: {fileID: 5462354660832546642}
   - component: {fileID: -4292747237321001898}
-  m_Layer: 8
+  m_Layer: 2
   m_Name: Rueda
   m_TagString: Untagged
   m_Icon: {fileID: 0}

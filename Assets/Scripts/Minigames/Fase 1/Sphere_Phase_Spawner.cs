@@ -107,7 +107,6 @@ public class Sphere_Phase_Spawner : Spawner
         }
         else
         {
-
             ScreenText.text = go.GetComponent<AdditionalData>().StringedType;
         }
     }
@@ -122,6 +121,4 @@ public class Sphere_Phase_Spawner : Spawner
 
         readyToLoad = true;
     }
-
-
 }

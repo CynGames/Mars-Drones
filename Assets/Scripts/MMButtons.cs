@@ -44,6 +44,7 @@ public class MMButtons : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Escape))
         {
+            ButtonsFunctions.Instance.ResumeGame();
             QuitGame();
         }
     }

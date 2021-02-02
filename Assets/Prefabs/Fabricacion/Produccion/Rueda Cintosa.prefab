@@ -357,7 +357,7 @@ GameObject:
   - component: {fileID: 1758018694}
   - component: {fileID: 1758018693}
   - component: {fileID: -6008396844424784982}
-  m_Layer: 8
+  m_Layer: 2
   m_Name: Rueda Cintosa
   m_TagString: Untagged
   m_Icon: {fileID: 0}

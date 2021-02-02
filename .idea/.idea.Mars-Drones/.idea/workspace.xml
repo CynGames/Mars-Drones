@@ -20,420 +20,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e52e1de4-6c8a-48b6-b243-1a6415c58581" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Mars-Drones/.idea/.idea.Mars-Drones.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Mars-Drones/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Mars-Drones/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Mars-Drones/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Mars-Drones/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Mars-Drones/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Mars-Drones/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Mars-Drones/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Mars-Drones/riderModule.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Elementos de limpieza.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Elementos de limpieza/escobita1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Elementos de limpieza/escobita1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Elementos de limpieza/escobita2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Elementos de limpieza/escobita2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Elementos de limpieza/escobita3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Elementos de limpieza/escobita3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Elementos de limpieza/escobita4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Elementos de limpieza/escobita4.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Elementos de limpieza/escobitaicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Elementos de limpieza/escobitaicon.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/Fondo 1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/Fondo 1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/Fondo 2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/Fondo 2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/Fondo 3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/Fondo 3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/UI.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/UI/botonpulsado.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/UI/botonpulsado.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/UI/botonsalircompletado.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/UI/botonsalircompletado.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/UI/botonsiguientecompletado.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/UI/botonsiguientecompletado.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/UI/botonsinpulsar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/UI/botonsinpulsar.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/UI/cartelcompletado.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/UI/cartelcompletado.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/UI/chatbox2-0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/UI/chatbox2-0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/UI/droneplanoicono.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/UI/droneplanoicono.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/UI/fondocartelcompletado.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/UI/fondocartelcompletado.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/UI/fondocohetitocartecompletado.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/UI/fondocohetitocartecompletado.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/UI/fondonivelcompletado.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/UI/fondonivelcompletado.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/UI/monitor2-0-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/UI/monitor2-0-1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/UI/monitor2-0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/UI/monitor2-0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/UI/pendorchos monitor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/UI/pendorchos monitor.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/UI/ui_blueprint.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/UI/ui_blueprint.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/UI/uichatbox.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/UI/uichatbox.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/UI/uicleanbox.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/UI/uicleanbox.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/UI/uicleantoolsoptions.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/UI/uicleantoolsoptions.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/UI/uiclock.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/UI/uiclock.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/UI/uioptions.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/UI/uioptions.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/UI/uitermometer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/UI/uitermometer.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/UI/uitermometherclockbacground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/UI/uitermometherclockbacground.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/UI/uitermometterbackground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/UI/uitermometterbackground.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/UI/uitoolbox.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/UI/uitoolbox.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/minimapa.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/minimapa/fondominimapa2-0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/minimapa/fondominimapa2-0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/minimapa/minimapaobejots.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/minimapa/minimapaobejots/cohetito.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/minimapa/minimapaobejots/cohetito.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/minimapa/minimapaobejots/cohetitoframe1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/minimapa/minimapaobejots/cohetitoframe1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/minimapa/minimapaobejots/cohetitoframe2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/minimapa/minimapaobejots/cohetitoframe2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/minimapa/minimapaobejots/cohetitoframe3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/minimapa/minimapaobejots/cohetitoframe3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/minimapa/minimapaobejots/cohetitoframe4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/minimapa/minimapaobejots/cohetitoframe4.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/minimapa/minimapaobejots/cohetitoframe5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/minimapa/minimapaobejots/cohetitoframe5.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/minimapa/minimapaobejots/cohetitoframe6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/minimapa/minimapaobejots/cohetitoframe6.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/minimapa/minimapaobejots/cohetitoframe7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/minimapa/minimapaobejots/cohetitoframe7.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/minimapa/minimapaobejots/cohetitoframe8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/minimapa/minimapaobejots/cohetitoframe8.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/minimapa/minimapaobejots/cohetitoframe9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/minimapa/minimapaobejots/cohetitoframe9.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/minimapa/minimapaobejots/lineas piramide2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/minimapa/minimapaobejots/lineas piramide2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/minimapa/minimapaobejots/roca medio.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/minimapa/minimapaobejots/roca medio.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s1.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s1/ESFERA.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s1/ESFERA.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s1/Reciclaje S1 atras.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s1/Reciclaje S1 atras.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s1/Reciclaje S1 vidrio.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s1/Reciclaje S1 vidrio.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s1/Reciclaje_S1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s1/Reciclaje_S1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s1/botonpulsado.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s1/botonpulsado.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s1/botonsinpulsar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s1/botonsinpulsar.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s1/cajabasura.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s1/cajabasura.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s1/cajasuministros1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s1/cajasuministros1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s1/cinta.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s1/cinta.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s1/drone1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s1/drone1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s1/droneunoplano.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s1/droneunoplano.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s1/fdroneplano1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s1/fdroneplano1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s1/fondoblueprint.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s1/fondoblueprint.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s1/pico medio roto.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s1/pico medio roto.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s1/pico roto.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s1/pico roto.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s1/pico sano.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s1/pico sano.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s2.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s2/cajonmovilidad.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s2/cajonmovilidad.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s2/monitor2-0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s2/monitor2-0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/basura y manchas.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/basura y manchas/aparato1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/basura y manchas/aparato1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/basura y manchas/aparato2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/basura y manchas/aparato2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/basura y manchas/aparato3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/basura y manchas/aparato3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/basura y manchas/mancha1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/basura y manchas/mancha1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/basura y manchas/mancha2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/basura y manchas/mancha2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/basura y manchas/mancha3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/basura y manchas/mancha3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/basura y manchas/mancha4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/basura y manchas/mancha4.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/basura y manchas/mancha5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/basura y manchas/mancha5.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/basura y manchas/mancha7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/basura y manchas/mancha7.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/basura y manchas/papel1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/basura y manchas/papel1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/basura y manchas/papel2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/basura y manchas/papel2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/basura y manchas/papel3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/basura y manchas/papel3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/basura y manchas/papel4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/basura y manchas/papel4.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/basura y manchas/path2296.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/basura y manchas/path2296.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/basura y manchas/tubobasura2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/basura y manchas/tubobasura2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/minijuegos.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/minijuegos/cables.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/minijuegos/cables/cableconpendorcho.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/minijuegos/cables/cableconpendorcho.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/minijuegos/cables/cableconpendorchoamarillo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/minijuegos/cables/cableconpendorchoamarillo.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/minijuegos/cables/cableconpendorchoazul.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/minijuegos/cables/cableconpendorchoazul.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/minijuegos/cables/cableconpendorchorojo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/minijuegos/cables/cableconpendorchorojo.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/minijuegos/cables/cableconpendorchoverde.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/minijuegos/cables/cableconpendorchoverde.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/minijuegos/cables/cablesinpendorcho.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/minijuegos/cables/cablesinpendorcho.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/minijuegos/cables/cablesinpendorchoamarillo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/minijuegos/cables/cablesinpendorchoamarillo.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/minijuegos/cables/cablesinpendorchoazul.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/minijuegos/cables/cablesinpendorchoazul.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/minijuegos/cables/cablesinpendorchorojo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/minijuegos/cables/cablesinpendorchorojo.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/minijuegos/cables/cablesinpendorchoverde.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/minijuegos/cables/cablesinpendorchoverde.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/minijuegos/cables/fondocables.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/minijuegos/cables/fondocables.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/minijuegos/cables/grillacables.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/minijuegos/cables/grillacables.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/minijuegos/protoboard.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/minijuegos/protoboard/bandejacomponentes.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/minijuegos/protoboard/bandejacomponentes.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/minijuegos/protoboard/fondoprotoboard.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/minijuegos/protoboard/fondoprotoboard.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/minijuegos/protoboard/protoboardfondo2-0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/minijuegos/protoboard/protoboardfondo2-0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/minijuegos/tuberias.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/minijuegos/tuberias/minijuegofondotuberias.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/minijuegos/tuberias/minijuegofondotuberias.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/minijuegos/tuberias/tuberiacurvaapagada.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/minijuegos/tuberias/tuberiacurvaapagada.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/minijuegos/tuberias/tuberiacurvaencendida.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/minijuegos/tuberias/tuberiacurvaencendida.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/minijuegos/tuberias/tuberiarectaapagada.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/minijuegos/tuberias/tuberiarectaapagada.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/minijuegos/tuberias/tuberirectaencendida.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/s3/minijuegos/tuberias/tuberirectaencendida.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/titulo.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/titulo/fondo2-0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Fondos Viejos/titulo/fondo2-0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Limpieza.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Limpieza/escobita1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Limpieza/escobita1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Limpieza/escobita2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Limpieza/escobita2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Limpieza/escobita3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Limpieza/escobita3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Limpieza/escobita4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Limpieza/escobita4.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Limpieza/esponjita0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Limpieza/esponjita0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Limpieza/esponjita1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Limpieza/esponjita1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Limpieza/esponjita2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Limpieza/esponjita2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Limpieza/esponjita3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Limpieza/esponjita3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Limpieza/esponjita4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Limpieza/esponjita4.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/LoadingScreen.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/LoadingScreen/compuertaabajo2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/LoadingScreen/compuertaabajo2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/LoadingScreen/compuertaarriba2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/LoadingScreen/compuertaarriba2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/LoadingScreen/loadscreen.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/LoadingScreen/loadscreen/compuertaabajo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/LoadingScreen/loadscreen/compuertaabajo.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/LoadingScreen/loadscreen/compuertaarriba.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/LoadingScreen/loadscreen/compuertaarriba.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/LoadingScreen/loadscreen/dronetextoizquierda.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/LoadingScreen/loadscreen/dronetextoizquierda.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/LoadingScreen/loadscreen/drontextoderecha.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/LoadingScreen/loadscreen/drontextoderecha.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/LoadingScreen/loadscreen/robotitoanimacion.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/LoadingScreen/loadscreen/robotitoanimacion.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Logos.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Logos/354px-INTI.svg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Logos/354px-INTI.svg.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Logos/INTIPOSTA.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Logos/INTIPOSTA.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Logos/Logo_INTI.ai" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Logos/Logo_INTI.ai.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Logos/Logo_INTI.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Logos/Logo_INTI.pdf.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Logos/UNRaf_01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Logos/UNRaf_01.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Logos/logo-INTI.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Logos/logo-INTI.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Objetos Arrastrables.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Objetos Arrastrables/Basura.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Objetos Arrastrables/Basura/APPLE.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Objetos Arrastrables/Basura/APPLE.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Objetos Arrastrables/Basura/B_reproductor de audio.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Objetos Arrastrables/Basura/B_reproductor de audio.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Objetos Arrastrables/Basura/Banana.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Objetos Arrastrables/Basura/Banana.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Objetos Arrastrables/Basura/F_Tapa de sirena.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Objetos Arrastrables/Basura/F_Tapa de sirena.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Objetos Arrastrables/Fabricacion.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Objetos Arrastrables/Fabricacion/F_Bateria.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Objetos Arrastrables/Fabricacion/F_Bateria.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Objetos Arrastrables/Fabricacion/F_Cable.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Objetos Arrastrables/Fabricacion/F_Cable.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Objetos Arrastrables/Fabricacion/antena.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Objetos Arrastrables/Fabricacion/antena.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Objetos Arrastrables/Fabricacion/bateria.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Objetos Arrastrables/Fabricacion/bateria.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Objetos Arrastrables/Fabricacion/cable.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Objetos Arrastrables/Fabricacion/cable.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Objetos Arrastrables/Fabricacion/chapa.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Objetos Arrastrables/Fabricacion/chapa.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Objetos Arrastrables/Fabricacion/cinta.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Objetos Arrastrables/Fabricacion/cinta.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Objetos Arrastrables/Fabricacion/motor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Objetos Arrastrables/Fabricacion/motor.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Objetos Arrastrables/Fabricacion/rueda.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Objetos Arrastrables/Fabricacion/rueda.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Objetos Arrastrables/Herramientas.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Objetos Arrastrables/Herramientas/llave.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Objetos Arrastrables/Herramientas/llave.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Objetos Arrastrables/Herramientas/pinzas.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Objetos Arrastrables/Herramientas/pinzas.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Objetos Arrastrables/Herramientas/serrucho.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Objetos Arrastrables/Herramientas/serrucho.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Objetos Arrastrables/Herramientas/tester.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Objetos Arrastrables/Herramientas/tester.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Objetos Arrastrables/Obsoleto.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Objetos Arrastrables/Obsoleto/B_paraguas.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Objetos Arrastrables/Obsoleto/B_paraguas.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Opciones.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Opciones/fondoui.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Opciones/fondoui.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Opciones/iconimage.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Opciones/iconimage.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Opciones/iconmisc.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Opciones/iconmisc.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Opciones/iconsonido.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Opciones/iconsonido.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Opciones/ui_botoncerrar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Opciones/ui_botoncerrar.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Opciones/ui_cheboxfull.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Opciones/ui_cheboxfull.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Opciones/ui_checkboxempty.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Opciones/ui_checkboxempty.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Opciones/ui_guiaslider.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Opciones/ui_guiaslider.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Opciones/ui_recuadrosolapas.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Opciones/ui_recuadrosolapas.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Opciones/ui_slidersolo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Opciones/ui_slidersolo.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Opciones/ui_solapainferior.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Opciones/ui_solapainferior.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Opciones/ui_solapamedio.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Opciones/ui_solapamedio.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Opciones/ui_solapasuperior.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Opciones/ui_solapasuperior.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Recipientes.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Recipientes/S2.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Recipientes/S2/caja1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Recipientes/S2/caja1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Recipientes/S2/caja2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Recipientes/S2/caja2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Recipientes/S2/caja2_variante.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Recipientes/S2/caja2_variante.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Recipientes/S2/caja3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Recipientes/S2/caja3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Recipientes/S2/caja3_variante.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Recipientes/S2/caja3_variante.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Recipientes/S2/caja4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Recipientes/S2/caja4.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Recipientes/S2/caja5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Recipientes/S2/caja5.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Recipientes/S2/caja6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Recipientes/S2/caja6.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Recipientes/S2/caja7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Recipientes/S2/caja7.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Recipientes/S2/caja8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Recipientes/S2/caja8.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Recipientes/S2/cargador.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Recipientes/S2/cargador.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Recipientes/S2/cuadroherramientas.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Recipientes/S2/cuadroherramientas.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Recipientes/S2/estanteria3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Recipientes/S2/estanteria3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Recipientes/cajaelectricidad.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Recipientes/cajaelectricidad.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Recipientes/cajaensamblado.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Recipientes/cajaensamblado.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Recipientes/cajamovilidad.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Recipientes/cajamovilidad.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Sparky Sprites.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Sparky Sprites/SparkyCheer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Sparky Sprites/SparkyCheer.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Sparky Sprites/SparkyHi.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Sparky Sprites/SparkyHi.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Sparky Sprites/SparkyPoint.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Sparky Sprites/SparkyPoint.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Sparky Sprites/SparkySmug.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Sparky Sprites/SparkySmug.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Splash.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Splash.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Suciedad.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Suciedad/mancha1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Suciedad/mancha1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Suciedad/mancha2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Suciedad/mancha2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Suciedad/mancha3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Suciedad/mancha3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Suciedad/mancha4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Suciedad/mancha4.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Suciedad/mancha5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Suciedad/mancha5.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Suciedad/papel1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Suciedad/papel1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Suciedad/papel2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Suciedad/papel2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Suciedad/papel3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Suciedad/papel3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Suciedad/papel4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arte/Suciedad/papel4.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Canciones a cambiar/Ahead on Our Way.ogg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Canciones a cambiar/Ahead on Our Way.ogg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Canciones a cambiar/Descendant of Shinobi.ogg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Canciones a cambiar/Descendant of Shinobi.ogg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Canciones a cambiar/Interrupted by Fireworks.ogg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Canciones a cambiar/Interrupted by Fireworks.ogg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Canciones a cambiar/On the Other Side of the Mountain.ogg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Canciones a cambiar/On the Other Side of the Mountain.ogg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Canciones a cambiar/Sending a Dream into the Universe.ogg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Canciones a cambiar/Sending a Dream into the Universe.ogg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Mars-Drones/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Mars-Drones/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/A_Scenes/Fase 2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/A_Scenes/Fase 2.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Basura/Banana.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Basura/Banana.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Basura/Manzana.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Basura/Manzana.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Basura/ReproductorAudio.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Basura/ReproductorAudio.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Basura/Tapa.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Basura/Tapa.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Desechos/mancha1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Desechos/mancha1.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Desechos/mancha2.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Desechos/mancha2.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Desechos/mancha3.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Desechos/mancha3.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Desechos/mancha4.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Desechos/mancha4.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Desechos/mancha5.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Desechos/mancha5.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Desechos/papel1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Desechos/papel1.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Desechos/papel2.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Desechos/papel2.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Desechos/papel3.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Desechos/papel3.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Desechos/papel4.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Desechos/papel4.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Fabricacion/No Utiles/Antena.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Fabricacion/No Utiles/Antena.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Fabricacion/No Utiles/Bateria.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Fabricacion/No Utiles/Bateria.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Fabricacion/No Utiles/CableEncintado.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Fabricacion/No Utiles/CableEncintado.prefab" afterDir="false" />
@@ -447,40 +48,14 @@
       <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Herramientas/Pinzas.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Herramientas/Pinzas.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Herramientas/Serrucho.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Herramientas/Serrucho.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Herramientas/Tester.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Herramientas/Tester.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Credits.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Credits.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Ending.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Ending.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Fase 0.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Fase 0.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Fase 1.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Fase 1.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Fase 2.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Fase 2.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Fase 3 RESSES.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Fase 3 RESSES.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Fase 3.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Fase 3.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Fase 4.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Fase 4.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/LogoReveal.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/LogoReveal.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MidTempo 0.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MidTempo 0.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MidTempo 1.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MidTempo 1.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MidTempo 2.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MidTempo 2.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MidTempo 3.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MidTempo 3.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Elements/AdditionalData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Elements/AdditionalData.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/MMButtons.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MMButtons.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Manager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Manager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase Final/Scoreboard.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase Final/Scoreboard.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 0/Matching_Phase_Element_Behaviour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 0/Matching_Phase_Element_Behaviour.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 0/Matching_Phase_Spawner.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 0/Matching_Phase_Spawner.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 1/Sphere_Phase_Placement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 1/Sphere_Phase_Placement.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 1/Sphere_Phase_Spawner.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 1/Sphere_Phase_Spawner.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 2/Arrange_Phase_Placement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 2/Arrange_Phase_Placement.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Minigames/General/QueueAssembler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Minigames/General/QueueAssembler.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -491,13 +66,26 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Manager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 0/Matching_Phase_Element_Behaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 0/Matching_Phase_Manager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AudioSystem/AudioManager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Minigames/Fase Final/Scoreboard.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Cheating.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AudioSystem/MusicLibrary.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Elements/AdditionalData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 0/Matching_Phase_Spawner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 1/Sphere_Phase_Manager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 1/Sphere_Phase_Placement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MMButtons.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Minigames/General/SpawnLocation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 1/Sphere_Phase_Spawner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Manager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Minigames/General/QueueAssembler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Minigames/General/ObjectLibrary.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Minigames/Fase Final/Scoreboard.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ButtonsFunctions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Lights/RecallManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 2/Arrange_Phase_Placement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Helpers/ListUtils.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -506,6 +94,13 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Manager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase Final/Scoreboard.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MMButtons.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 2/Arrange_Phase_Placement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 1/Sphere_Phase_Placement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Minigames/General/QueueAssembler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 1/Sphere_Phase_Spawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 0/Matching_Phase_Spawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Elements/AdditionalData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 0/Matching_Phase_Element_Behaviour.cs" />
       </list>
     </option>
   </component>
@@ -553,7 +148,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612215469420</updated>
-      <workItem from="1612215496420" duration="4132000" />
+      <workItem from="1612215496420" duration="4925000" />
+      <workItem from="1612269661045" duration="3965000" />
     </task>
     <servers />
   </component>
@@ -572,8 +168,15 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="592" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1612270558620">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="592" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1858.1080/-1920.0.1858.1080@0.0.1858.1080" timestamp="1612270558620" />
   </component>
 </project>

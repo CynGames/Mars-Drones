@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 9201155477684592261}
   - component: {fileID: 731363474233927785}
   - component: {fileID: -1135490060286910917}
-  m_Layer: 8
+  m_Layer: 2
   m_Name: Serrucho
   m_TagString: Untagged
   m_Icon: {fileID: 0}

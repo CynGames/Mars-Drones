@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 3655229899642614902}
   - component: {fileID: 3655229899642614900}
   - component: {fileID: 8388221646639708012}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: papel3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -47,6 +47,7 @@ SpriteRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:

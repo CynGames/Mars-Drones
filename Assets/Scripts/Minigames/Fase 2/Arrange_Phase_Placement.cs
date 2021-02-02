@@ -20,7 +20,7 @@ public class Arrange_Phase_Placement : Placement
         {
             Debug.Log("true");
 
-            AudioManager.Instance.PlaySound2D("Exito");
+            if(AudioManager.Instance != null) AudioManager.Instance.PlaySound2D("Exito");
 
             Sphere_Phase_Manager.PlacedElements++;
 

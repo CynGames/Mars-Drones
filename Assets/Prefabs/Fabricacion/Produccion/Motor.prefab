@@ -271,7 +271,7 @@ GameObject:
   - component: {fileID: 173089255}
   - component: {fileID: 173089254}
   - component: {fileID: -6413429947453492266}
-  m_Layer: 8
+  m_Layer: 2
   m_Name: Motor
   m_TagString: Untagged
   m_Icon: {fileID: 0}

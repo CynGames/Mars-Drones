@@ -17,21 +17,11 @@ public class Sphere_Phase_Placement : Placement
 
     public override bool ReturnPlacementValidation(ElementBehaviour elementBehaviour)
     {
-        if (elementBehaviour.data.type.ToString() == type.ToString())
-        {
-            Debug.Log("true");
+        if (elementBehaviour.data.type.ToString() != type.ToString()) return false;
+        if (AudioManager.Instance != null) AudioManager.Instance.PlaySound2D("Exito");
 
-            AudioManager.Instance.PlaySound2D("Exito");
+        Sphere_Phase_Manager.PlacedElements++;
 
-            Sphere_Phase_Manager.PlacedElements++;
-
-            return true;
-        }
-        else
-        {
-            Debug.Log("false");
-
-            return false;
-        }
+        return true;
     }
 }

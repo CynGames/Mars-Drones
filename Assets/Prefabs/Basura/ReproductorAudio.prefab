@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: -5079674333016570810}
   - component: {fileID: 5710763386563851460}
   - component: {fileID: 1497383746655518037}
-  m_Layer: 8
+  m_Layer: 2
   m_Name: ReproductorAudio
   m_TagString: Untagged
   m_Icon: {fileID: 0}

@@ -271,7 +271,7 @@ GameObject:
   - component: {fileID: 6532970953345054429}
   - component: {fileID: 1501991715}
   - component: {fileID: 3571173001855718094}
-  m_Layer: 8
+  m_Layer: 2
   m_Name: Antena
   m_TagString: Untagged
   m_Icon: {fileID: 0}

@@ -357,7 +357,7 @@ GameObject:
   - component: {fileID: -2484503372795210371}
   - component: {fileID: 3330535920507303719}
   - component: {fileID: -2191208415431261692}
-  m_Layer: 8
+  m_Layer: 2
   m_Name: Cable
   m_TagString: Untagged
   m_Icon: {fileID: 0}

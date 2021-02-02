@@ -1,5 +1,7 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
+using PixelCrushers.DialogueSystem;
 using UnityEngine;
 
 public class Matching_Phase_Element_Behaviour : ElementBehaviour
@@ -31,6 +33,25 @@ public class Matching_Phase_Element_Behaviour : ElementBehaviour
             if (collision.GetComponent<Boundaries>() != null)
             {
                 gameObject.SetActive(false);
+            }
+        }
+    }
+
+    private void FixedUpdate()
+    {
+        if (DialogueManager.isConversationActive)
+        {
+            if (gameObject.layer != LayerMask.NameToLayer("Ignore Raycast"))
+            {
+                gameObject.layer = LayerMask.NameToLayer("Ignore Raycast");
+            }
+
+        }
+        else
+        {
+            if (gameObject.layer != LayerMask.NameToLayer("DraggableElements") && gameObject.GetComponent<AdditionalData>())
+            {
+                gameObject.layer = LayerMask.NameToLayer("DraggableElements");
             }
         }
     }

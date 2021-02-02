@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 8359963396437600979}
   - component: {fileID: 8359963396437600976}
   - component: {fileID: -2531623413882413601}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: mancha2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -47,6 +47,7 @@ SpriteRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:

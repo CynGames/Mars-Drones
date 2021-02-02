@@ -99,7 +99,7 @@ GameObject:
   - component: {fileID: 1566226584}
   - component: {fileID: 1566226585}
   - component: {fileID: 2317910881793568110}
-  m_Layer: 8
+  m_Layer: 2
   m_Name: Chapa
   m_TagString: Untagged
   m_Icon: {fileID: 0}

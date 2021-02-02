@@ -185,7 +185,7 @@ GameObject:
   - component: {fileID: 1550433103292425241}
   - component: {fileID: 3216145823725302605}
   - component: {fileID: 3900290317938377750}
-  m_Layer: 8
+  m_Layer: 2
   m_Name: CableEncintado
   m_TagString: Untagged
   m_Icon: {fileID: 0}

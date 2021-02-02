@@ -357,7 +357,7 @@ GameObject:
   - component: {fileID: -5698551804330641297}
   - component: {fileID: -7421700126607364986}
   - component: {fileID: -8539353610328608993}
-  m_Layer: 8
+  m_Layer: 2
   m_Name: Pinzas
   m_TagString: Untagged
   m_Icon: {fileID: 0}

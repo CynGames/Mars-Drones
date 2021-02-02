@@ -99,7 +99,7 @@ GameObject:
   - component: {fileID: 4971539970096348021}
   - component: {fileID: 1975101215724285386}
   - component: {fileID: -5440383119306828392}
-  m_Layer: 8
+  m_Layer: 2
   m_Name: Tapa
   m_TagString: Untagged
   m_Icon: {fileID: 0}

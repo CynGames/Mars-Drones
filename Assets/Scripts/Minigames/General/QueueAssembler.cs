@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using System;
+using PixelCrushers.DialogueSystem;
 
 [RequireComponent(typeof(ObjectLibrary))]
 public class QueueAssembler : MonoBehaviour
