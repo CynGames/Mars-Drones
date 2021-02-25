@@ -20,14 +20,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e52e1de4-6c8a-48b6-b243-1a6415c58581" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Mars-Drones/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Mars-Drones/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Mars-Drones/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Mars-Drones/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/A_Scenes/Fase 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/A_Scenes/Fase 1.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/A_Scenes/Fase 2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/A_Scenes/Fase 2.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/A_Scenes/MainMenu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/A_Scenes/MainMenu.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Dialogue Manager.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Dialogue Manager.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/LiberationSans SDF - Metalic Green.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/LiberationSans SDF - Metalic Green.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Basura/Banana.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Basura/Banana.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Basura/Manzana.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Basura/Manzana.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Basura/ReproductorAudio.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Basura/ReproductorAudio.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Basura/Tapa.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Basura/Tapa.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Desechos/mancha1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Desechos/mancha1.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Desechos/mancha2.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Desechos/mancha2.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Desechos/mancha3.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Desechos/mancha3.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Desechos/mancha4.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Desechos/mancha4.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Desechos/mancha5.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Desechos/mancha5.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Desechos/papel1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Desechos/papel1.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Desechos/papel2.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Desechos/papel2.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Desechos/papel3.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Desechos/papel3.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Desechos/papel4.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Desechos/papel4.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Fabricacion/No Utiles/Antena.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Fabricacion/No Utiles/Antena.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Fabricacion/No Utiles/Bateria.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Fabricacion/No Utiles/Bateria.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Fabricacion/No Utiles/CableEncintado.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Fabricacion/No Utiles/CableEncintado.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Fabricacion/No Utiles/Chapa.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Fabricacion/No Utiles/Chapa.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Fabricacion/Produccion/Cable.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Fabricacion/Produccion/Cable.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Fabricacion/Produccion/Motor.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Fabricacion/Produccion/Motor.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Fabricacion/Produccion/Pila.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Fabricacion/Produccion/Pila.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Fabricacion/Produccion/Rueda Cintosa.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Fabricacion/Produccion/Rueda Cintosa.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Fabricacion/Produccion/Rueda.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Fabricacion/Produccion/Rueda.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Herramientas/Llave.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Herramientas/Llave.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Herramientas/Pinzas.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Herramientas/Pinzas.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Herramientas/Serrucho.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Herramientas/Serrucho.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Herramientas/Tester.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Herramientas/Tester.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Elements/AdditionalData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Elements/AdditionalData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MMButtons.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MMButtons.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 0/Matching_Phase_Element_Behaviour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 0/Matching_Phase_Element_Behaviour.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 0/Matching_Phase_Spawner.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 0/Matching_Phase_Spawner.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 1/Sphere_Phase_Placement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 1/Sphere_Phase_Placement.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 1/Sphere_Phase_Spawner.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 1/Sphere_Phase_Spawner.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 2/Arrange_Phase_Placement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 2/Arrange_Phase_Placement.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Minigames/General/QueueAssembler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Minigames/General/QueueAssembler.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +73,6 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AudioSystem/MusicLibrary.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Elements/AdditionalData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 0/Matching_Phase_Spawner.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Minigames/General/Objective.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 1/Sphere_Phase_Manager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 1/Sphere_Phase_Placement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MMButtons.cs" root0="FORCE_HIGHLIGHTING" />
@@ -58,10 +85,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ButtonsFunctions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Lights/RecallManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 2/Arrange_Phase_Placement.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Boundaries/SoftBoundaries.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Helpers/ListUtils.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Boundaries/HardBoundaries.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Minigames/ObjectiveManager.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -77,9 +101,6 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 0/Matching_Phase_Spawner.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Elements/AdditionalData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 0/Matching_Phase_Element_Behaviour.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Minigames/ObjetiveManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Minigames/ObjectiveManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Minigames/General/Objective.cs" />
       </list>
     </option>
   </component>
@@ -128,7 +149,7 @@
       <option name="presentableId" value="Default" />
       <updated>1612215469420</updated>
       <workItem from="1612215496420" duration="4925000" />
-      <workItem from="1612269661045" duration="6815000" />
+      <workItem from="1612269661045" duration="3965000" />
     </task>
     <servers />
   </component>

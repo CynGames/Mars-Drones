@@ -625,14 +625,12 @@
             </e>
             <e p="GameManager.cs" t="Include" />
             <e p="General" t="Include">
-              <e p="Objective.cs" t="Include" />
               <e p="ObjectLibrary.cs" t="Include" />
               <e p="Placement.cs" t="Include" />
               <e p="QueueAssembler.cs" t="Include" />
               <e p="Spawner.cs" t="Include" />
               <e p="SpawnLocation.cs" t="Include" />
             </e>
-            <e p="ObjectiveManager.cs" t="Include" />
           </e>
           <e p="MMButtons.cs" t="Include" />
           <e p="Sequencers" t="Include">
