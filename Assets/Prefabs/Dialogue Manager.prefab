@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 757314607}
   - component: {fileID: 757314606}
   - component: {fileID: 757314605}
+  - component: {fileID: 2431236498266630532}
   m_Layer: 5
   m_Name: Segunda S
   m_TagString: Untagged
@@ -65,7 +66,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "2\xBAS: ORDEN"
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -173,6 +174,21 @@ MonoBehaviour:
   UseRenderer: 1
   FadeOutOnStart: 0
   FadeInOnStart: 0
+--- !u!114 &2431236498266630532
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 757314603}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f5aac700f2902a49995be4b126c7065, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  esHeaderContent: ORDEN
+  enHeaderContent: SET IN ORDER
+  ptHeaderContent: 
 --- !u!1 &813706478
 GameObject:
   m_ObjectHideFlags: 0
@@ -185,6 +201,7 @@ GameObject:
   - component: {fileID: 813706482}
   - component: {fileID: 813706481}
   - component: {fileID: 813706480}
+  - component: {fileID: 2431236498266630529}
   m_Layer: 5
   m_Name: Quinta S
   m_TagString: Untagged
@@ -238,7 +255,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "5\xBAS: DISCIPLINA Y H\xC1BITO"
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -346,6 +363,21 @@ MonoBehaviour:
   UseRenderer: 1
   FadeOutOnStart: 0
   FadeInOnStart: 0
+--- !u!114 &2431236498266630529
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 813706478}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f5aac700f2902a49995be4b126c7065, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  esHeaderContent: "DISCIPLINA Y H\xC1BITO"
+  enHeaderContent: DISCIPLINE AND HABIT
+  ptHeaderContent: 
 --- !u!1 &1443435988
 GameObject:
   m_ObjectHideFlags: 0
@@ -358,6 +390,7 @@ GameObject:
   - component: {fileID: 1443435992}
   - component: {fileID: 1443435991}
   - component: {fileID: 1443435990}
+  - component: {fileID: 2431236498266630530}
   m_Layer: 5
   m_Name: Cuarta S
   m_TagString: Untagged
@@ -411,7 +444,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "4\xBAS: CONTROL VISUAL"
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -519,6 +552,21 @@ MonoBehaviour:
   UseRenderer: 1
   FadeOutOnStart: 0
   FadeInOnStart: 0
+--- !u!114 &2431236498266630530
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1443435988}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f5aac700f2902a49995be4b126c7065, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  esHeaderContent: "ESTANDARIZACI\xD3N"
+  enHeaderContent: STANDARDIZATION
+  ptHeaderContent: 
 --- !u!1 &1759086965
 GameObject:
   m_ObjectHideFlags: 0
@@ -605,6 +653,7 @@ GameObject:
   - component: {fileID: 2110171239}
   - component: {fileID: 2110171238}
   - component: {fileID: 2110171237}
+  - component: {fileID: 2431236498266630531}
   m_Layer: 5
   m_Name: Tercera S
   m_TagString: Untagged
@@ -658,7 +707,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "3\xBAS: LIMPIEZA"
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -766,6 +815,21 @@ MonoBehaviour:
   UseRenderer: 1
   FadeOutOnStart: 0
   FadeInOnStart: 0
+--- !u!114 &2431236498266630531
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2110171235}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f5aac700f2902a49995be4b126c7065, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  esHeaderContent: LIMPIEZA
+  enHeaderContent: 'CLEANING '
+  ptHeaderContent: 
 --- !u!1 &2431236497143658745
 GameObject:
   m_ObjectHideFlags: 0
@@ -4761,6 +4825,7 @@ GameObject:
   - component: {fileID: 2431236498477077731}
   - component: {fileID: 2431236498477077740}
   - component: {fileID: 2431236498477077730}
+  - component: {fileID: 2431236498266630533}
   m_Layer: 5
   m_Name: Primer S
   m_TagString: Untagged
@@ -4814,7 +4879,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "1\xBAS: SELECCI\xD3N"
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -4922,6 +4987,21 @@ MonoBehaviour:
   UseRenderer: 1
   FadeOutOnStart: 0
   FadeInOnStart: 0
+--- !u!114 &2431236498266630533
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2431236498477077742}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f5aac700f2902a49995be4b126c7065, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  esHeaderContent: SELECCION
+  enHeaderContent: SELECTION
+  ptHeaderContent: 
 --- !u!1 &2431236498532754736
 GameObject:
   m_ObjectHideFlags: 0

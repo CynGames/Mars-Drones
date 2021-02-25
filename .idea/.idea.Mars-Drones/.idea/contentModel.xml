@@ -633,6 +633,7 @@
               <e p="SpawnLocation.cs" t="Include" />
             </e>
             <e p="ObjectiveManager.cs" t="Include" />
+            <e p="S_Headers.cs" t="Include" />
           </e>
           <e p="MMButtons.cs" t="Include" />
           <e p="Sequencers" t="Include">

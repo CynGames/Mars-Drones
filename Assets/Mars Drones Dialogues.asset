@@ -218,6 +218,18 @@ MonoBehaviour:
         value: None();
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: 
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: 
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: 
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 1
       isRoot: 0
       isGroup: 0
@@ -270,7 +282,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: "\\,\xA1Bienvenido nuevo Operario!"
+        value: "\\,\xA1Bienvenido nuevo trabajador!"
         type: 0
         typeString: 
       - title: Parenthetical
@@ -291,6 +303,18 @@ MonoBehaviour:
           SetActive(FadeScreen, true);'
         type: 0
         typeString: 
+      - title: es
+        value: "\\,\xA1Bienvenido nuevo trabajador!"
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: \,Welcome new worker!
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 1
       isRoot: 0
       isGroup: 0
@@ -364,6 +388,18 @@ MonoBehaviour:
           SetActive(F0-1, true)'
         type: 0
         typeString: 
+      - title: es
+        value: \,Tu primera tarea es utilizar estos elementos para ensamblar 3 drones.
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: "\\,Your first task is to use these elements to assemble 3 drones.\r"
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 1
       isRoot: 0
       isGroup: 0
@@ -440,6 +476,18 @@ MonoBehaviour:
           false);'
         type: 0
         typeString: 
+      - title: es
+        value: "\\,\xA1Suerte!"
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: \,Good Luck!
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 1
       isRoot: 0
       isGroup: 0
@@ -486,8 +534,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: \,Para realizar el ensamblado basta con arrastrar un elemento como
-          este...
+        value: \,Para realizar el ensamblado arrastra un elemento como <color=green>este</color>...
         type: 0
         typeString: CustomFieldType_Text
       - title: Parenthetical
@@ -513,6 +560,19 @@ MonoBehaviour:
           1)'
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: \,Para realizar el ensamblado arrastra un elemento como <color=green>este</color>...
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: "\\,To assemble it, just drag an element like <color=green>this</color>
+          ...\r"
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 1
       isRoot: 0
       isGroup: 0
@@ -565,7 +625,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: \,A un casillero como este...
+        value: \,A un casillero como <color=green>este</color>...
         type: 0
         typeString: CustomFieldType_Text
       - title: Parenthetical
@@ -591,6 +651,18 @@ MonoBehaviour:
           1)'
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: \,A un casillero como <color=green>este</color>...
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: \,To a locker like <color=green>this</color> ...
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 1
       isRoot: 0
       isGroup: 0
@@ -706,6 +778,18 @@ MonoBehaviour:
         value: None()
         type: 0
         typeString: 
+      - title: es
+        value: 
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: 
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: 
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 2
       isRoot: 0
       isGroup: 0
@@ -779,6 +863,18 @@ MonoBehaviour:
           SetActive(FadeScreen, true);'
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: "\\,\xA1Felicitaciones!"
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: Congratulations!
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 2
       isRoot: 0
       isGroup: 0
@@ -800,7 +896,7 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 19.630135
+        x: 18.599205
         y: 81.03093
         width: 160
         height: 30
@@ -831,9 +927,9 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: "\\,Habr\xE1s notado que, entre tantos elementos no \xFAtiles mezclados,
-          es f\xE1cil perder tiempo\r buscando lo que uno necesita para la tarea
-          actual."
+        value: "\\,Habr\xE1s notado que, hay muchos elementos innecesarios por lo
+          que, es f\xE1cil perder tiempo buscando lo que necesitas para la tarea
+          actual.."
         type: 0
         typeString: CustomFieldType_Text
       - title: Parenthetical
@@ -854,6 +950,22 @@ MonoBehaviour:
           SetActive(F0-3, true);'
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: "\\,Habr\xE1s notado que, hay muchos elementos innecesarios por lo
+          que, es f\xE1cil perder tiempo buscando lo que necesitas para la tarea
+          actual.."
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: You may have noticed that there are many unnecessary elements so it
+          is easy to waste time looking for what it is necessary for the current
+          task.
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 2
       isRoot: 0
       isGroup: 0
@@ -907,7 +1019,7 @@ MonoBehaviour:
         typeString: CustomFieldType_Text
       - title: Dialogue Text
         value: "\\,Ahora te ense\xF1ar\xE9 un m\xE9todo para agilizar tu zona de
-          trabajo y minimizar este tipo de\r p\xE9rdidas de tiempo."
+          trabajo y minimizar p\xE9rdidas de tiempo."
         type: 0
         typeString: CustomFieldType_Text
       - title: Parenthetical
@@ -928,6 +1040,20 @@ MonoBehaviour:
           SetActive(F0-3, false);'
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: "\\,Ahora te ense\xF1ar\xE9 un m\xE9todo para agilizar tu zona de
+          trabajo y minimizar p\xE9rdidas de tiempo."
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: Now I will teach you a method to streamline your work area and minimize
+          this time loss.
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 2
       isRoot: 0
       isGroup: 0
@@ -1000,6 +1126,20 @@ MonoBehaviour:
         value: SetPortrait(Sparky,pic=Point);
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: "\\,Este m\xE9todo se llama \"Las 5 S\". Cada \"S\" simboliza una
+          etapa que iremos aplicando paso a\r paso."
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: This method is called "The 5 S". Each "S" symbolizes a stage that
+          we will apply step by step.
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 2
       isRoot: 0
       isGroup: 0
@@ -1010,77 +1150,6 @@ MonoBehaviour:
       outgoingLinks:
       - originConversationID: 2
         originDialogueID: 4
-        destinationConversationID: 2
-        destinationDialogueID: 5
-        isConnector: 0
-        priority: 2
-      conditionsString: 
-      userScript: 
-      onExecute:
-        m_PersistentCalls:
-          m_Calls: []
-      canvasRect:
-        serializedVersion: 2
-        x: 21
-        y: 230
-        width: 160
-        height: 30
-    - id: 5
-      fields:
-      - title: Title
-        value: 
-        type: 0
-        typeString: CustomFieldType_Text
-      - title: Pictures
-        value: '[]'
-        type: 3
-        typeString: CustomFieldType_Files
-      - title: Description
-        value: 
-        type: 0
-        typeString: CustomFieldType_Text
-      - title: Actor
-        value: 1
-        type: 5
-        typeString: CustomFieldType_Actor
-      - title: Conversant
-        value: -1
-        type: 5
-        typeString: CustomFieldType_Actor
-      - title: Menu Text
-        value: 
-        type: 0
-        typeString: CustomFieldType_Text
-      - title: Dialogue Text
-        value: "\\,Vayamos a un sitio m\xE1s adecuado..."
-        type: 0
-        typeString: CustomFieldType_Text
-      - title: Parenthetical
-        value: 
-        type: 0
-        typeString: CustomFieldType_Text
-      - title: Audio Files
-        value: '[]'
-        type: 3
-        typeString: CustomFieldType_Files
-      - title: Video File
-        value: 
-        type: 0
-        typeString: CustomFieldType_Text
-      - title: Sequence
-        value: SetPortrait(Sparky,pic=Hi);
-        type: 0
-        typeString: CustomFieldType_Text
-      conversationID: 2
-      isRoot: 0
-      isGroup: 0
-      nodeColor: 
-      delaySimStatus: 0
-      falseConditionAction: Block
-      conditionPriority: 2
-      outgoingLinks:
-      - originConversationID: 2
-        originDialogueID: 5
         destinationConversationID: 2
         destinationDialogueID: 7
         isConnector: 0
@@ -1093,7 +1162,7 @@ MonoBehaviour:
       canvasRect:
         serializedVersion: 2
         x: 21
-        y: 280
+        y: 230
         width: 160
         height: 30
     - id: 7
@@ -1144,6 +1213,18 @@ MonoBehaviour:
           Continue();'
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: 
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: 
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: 
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 2
       isRoot: 0
       isGroup: 0
@@ -1159,8 +1240,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 22.60337
-        y: 329.3151
+        x: 19.51059
+        y: 284.9852
         width: 160
         height: 30
     canvasScrollPosition: {x: 0, y: 12.371155}
@@ -1253,6 +1334,18 @@ MonoBehaviour:
         value: None();
         type: 0
         typeString: 
+      - title: es
+        value: 
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: 
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: 
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 3
       isRoot: 0
       isGroup: 0
@@ -1324,6 +1417,18 @@ MonoBehaviour:
         value: SetActive(FadeScreen, true);
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: "\\,En esta habitaci\xF3n aplicaremos la primera de las cinco \"S\"."
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: \,In this room we will apply the first of the five "S".
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 3
       isRoot: 0
       isGroup: 0
@@ -1360,7 +1465,7 @@ MonoBehaviour:
         type: 3
         typeString: CustomFieldType_Files
       - title: Description
-        value: "\"1\xBAS: CLASIFICACION\" en grande"
+        value: "\"1\xBAS: SELECCION\" en grande"
         type: 0
         typeString: CustomFieldType_Text
       - title: Actor
@@ -1377,7 +1482,7 @@ MonoBehaviour:
         typeString: CustomFieldType_Text
       - title: Dialogue Text
         value: "\\,La Primera S consiste en identificar y separar los materiales
-          necesarios de los innecesarios y\r en desprenderse de estos \xFAltimos."
+          necesarios de los innecesarios y en desprenderse de estos \xFAltimos.\r"
         type: 0
         typeString: CustomFieldType_Text
       - title: Parenthetical
@@ -1398,6 +1503,20 @@ MonoBehaviour:
           SetActive(Primer S, true);'
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: "\\,La Primera S consiste en identificar y separar los materiales
+          necesarios de los innecesarios y en desprenderse de estos \xFAltimos.\r"
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: \,The First S consists of identifying and separating the necessary
+          materials from the unnecessary ones and discarding the latter.
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 3
       isRoot: 0
       isGroup: 0
@@ -1450,8 +1569,8 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: "\\,Para aplicar este concepto, al presionar el bot\xF3n rojo, un
-          objeto saldr\xE1 despedido de la\r esfera en el centro de la habitaci\xF3n."
+        value: \,Para aplicar este concepto, <b>DEBERAS CLASIFICAR LOS ELEMENTOS
+          QUE CONTIENE LA ESFERA</b>
         type: 0
         typeString: CustomFieldType_Text
       - title: Parenthetical
@@ -1472,6 +1591,21 @@ MonoBehaviour:
           SetActive(Mecanica, true);'
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: Para aplicar este concepto, <b>DEBERAS CLASIFICAR LOS ELEMENTOS QUE
+          CONTIENE LA ESFERA. </b>
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: <b>YOU MUST GUIDE THE LASER FROM THE SPHERE TO THE APPROPRIATE CONTAINER
+          AND PRESS</b> <color=orange>the red button</color> <b>SO THAT THE ELEMENT
+          COMES OUT AND CAN BE STORED</b>
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 3
       isRoot: 0
       isGroup: 0
@@ -1493,7 +1627,7 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 30
+        x: 31.219513
         y: 220
         width: 160
         height: 30
@@ -1524,8 +1658,9 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: "\\,Deber\xE1s colocar dicho objeto en uno de los 4 contenedores que
-          se encuentran presente en\r la habitaci\xF3n."
+        value: "\\,<b>DEBERAS GUIAR EL LASER DE LA ESFERA AL CONTENDOR ADECUADO Y
+          PRESIONAR</b> el bot\xF3n rojo (NARANJA) PARA QUE EL ELEMENTO SALGA Y PUEDA
+          SER ALMACENADO."
         type: 0
         typeString: CustomFieldType_Text
       - title: Parenthetical
@@ -1544,6 +1679,20 @@ MonoBehaviour:
         value: 
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: "\\,<b>DEBERAS GUIAR EL LASER DE LA ESFERA AL CONTENDOR ADECUADO Y
+          PRESIONAR</b> <color=orange> el bot\xF3n rojo </color> <b>PARA QUE EL ELEMENTO
+          SALGA Y PUEDA SER ALMACENADO.</b>"
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: english
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 3
       isRoot: 0
       isGroup: 0
@@ -1596,7 +1745,8 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: \,El contenedor Verde almacena objetos clasificados como "Basura".
+        value: \,El contenedor <color=green>Verde</color>almacena objetos clasificados
+          como "Basura".
         type: 0
         typeString: CustomFieldType_Text
       - title: Parenthetical
@@ -1617,6 +1767,20 @@ MonoBehaviour:
           SetActive(Verde, true);'
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: \,El contenedor <color=green>Verde</color>almacena objetos clasificados
+          como "Basura".
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: "The <color=green>Green</color> container stores objects classified
+          as \"Garbage\".\r"
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 3
       isRoot: 0
       isGroup: 0
@@ -1688,6 +1852,18 @@ MonoBehaviour:
         value: SetActive(Azul, true);
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: \,Este contenedor almacena herramientas de todo tipo.
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: \,This container stores different tools.
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 3
       isRoot: 0
       isGroup: 0
@@ -1760,6 +1936,20 @@ MonoBehaviour:
         value: SetActive(Util, true);
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: \,Este contenedor almacena todo lo relacionado al ensamblado del dron
+          requerido actualmente.
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: This container stores everything related to the currently required
+          drone assembly.
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 3
       isRoot: 0
       isGroup: 0
@@ -1833,6 +2023,20 @@ MonoBehaviour:
         value: SetActive(Inutil, true);
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: "Finalmente, este contenedor debe almacenar objetos relacionados al
+          ensamblado de drones pero que no ser\xE1n utilizados en este lote de ensamblado."
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: "Finally, this container must store objects related to the assembly
+          of drones but that will not be used in this assembly batch.\r"
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 3
       isRoot: 0
       isGroup: 0
@@ -1854,7 +2058,7 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 30
+        x: 31.219513
         y: 468.82355
         width: 160
         height: 30
@@ -1912,6 +2116,18 @@ MonoBehaviour:
           false);'
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: "\xA1Buena suerte!"
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: Good luck!
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 3
       isRoot: 0
       isGroup: 0
@@ -1929,6 +2145,87 @@ MonoBehaviour:
         serializedVersion: 2
         x: 33.09279
         y: 514.5648
+        width: 160
+        height: 30
+    - id: 11
+      fields:
+      - title: Title
+        value: 
+        type: 0
+        typeString: CustomFieldType_Text
+      - title: Pictures
+        value: '[]'
+        type: 3
+        typeString: CustomFieldType_Files
+      - title: Description
+        value: En caso de que quieran que no respawnee el material sino que se quede
+          en el sopi
+        type: 0
+        typeString: CustomFieldType_Text
+      - title: Actor
+        value: -1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: CustomFieldType_Text
+      - title: Dialogue Text
+        value: SI EL OBJETO CAE AL PISO DEBERAS ARRASTRARLO Y UBICARLO EN EL CONTENEDOR
+          CORRESPONDIENTE PARA PODER SUPERAR ESTA ETAPA
+        type: 0
+        typeString: CustomFieldType_Text
+      - title: Parenthetical
+        value: 
+        type: 0
+        typeString: CustomFieldType_Text
+      - title: Audio Files
+        value: '[]'
+        type: 3
+        typeString: CustomFieldType_Files
+      - title: Video File
+        value: 
+        type: 0
+        typeString: CustomFieldType_Text
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: CustomFieldType_Text
+      - title: es
+        value: SI EL OBJETO CAE AL PISO DEBERAS ARRASTRARLO Y UBICARLO EN EL CONTENEDOR
+          CORRESPONDIENTE PARA PODER SUPERAR ESTA ETAPA
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: "IF THE OBJECT FALLS TO THE FLOOR, YOU MUST DRAG IT AND PLACE IT IN
+          THE CORRESPONDING CONTAINER TO BE ABLE TO EXCEED THIS STAGE\r"
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
+      conversationID: 3
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks: []
+      conditionsString: 
+      userScript: 
+      onExecute:
+        m_PersistentCalls:
+          m_Calls: []
+      canvasRect:
+        serializedVersion: 2
+        x: 623.5593
+        y: 199.26828
         width: 160
         height: 30
     canvasScrollPosition: {x: 0, y: 0}
@@ -2021,6 +2318,18 @@ MonoBehaviour:
         value: None()
         type: 0
         typeString: 
+      - title: es
+        value: 
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: 
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: 
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 4
       isRoot: 0
       isGroup: 0
@@ -2092,6 +2401,18 @@ MonoBehaviour:
         value: SetActive(FadeScreen, true);
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: "\\,\xA1Buen trabajo clasificando los objetos!"
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: You have done a great job classifying the objects!
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 4
       isRoot: 0
       isGroup: 0
@@ -2113,7 +2434,7 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 20
+        x: 21
         y: 80
         width: 160
         height: 30
@@ -2164,6 +2485,20 @@ MonoBehaviour:
         value: 
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: "\\,Sin embargo, para aplicar la siguiente parte de la metodolog\xEDa,
+          debemos ordenar lo\r clasificado."
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: "However, to apply the next part of the methodology, we must order
+          the\r Classified objects.\r"
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 4
       isRoot: 0
       isGroup: 0
@@ -2237,6 +2572,18 @@ MonoBehaviour:
           Continue();'
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: 
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: 
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: 
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 4
       isRoot: 0
       isGroup: 0
@@ -2352,6 +2699,18 @@ MonoBehaviour:
         value: None()
         type: 0
         typeString: 
+      - title: es
+        value: 
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: 
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 5
       isRoot: 0
       isGroup: 0
@@ -2373,8 +2732,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 20
-        y: 30
+        x: 30
+        y: 20
         width: 160
         height: 30
     - id: 1
@@ -2404,7 +2763,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: Aqui aplicamos la Segunda "S".
+        value: Aqui aplicaremos la Segunda "S".
         type: 0
         typeString: CustomFieldType_Text
       - title: Parenthetical
@@ -2423,6 +2782,18 @@ MonoBehaviour:
         value: SetActive(FadeScreen, true);
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: Aqui aplicaremos la Segunda "S".
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: Here we will apply the Second "S".
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 5
       isRoot: 0
       isGroup: 0
@@ -2444,8 +2815,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 20
-        y: 79
+        x: 30
+        y: 70
         width: 160
         height: 30
     - id: 2
@@ -2475,8 +2846,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: Se trata de establecer el modo en que deben ubicarse e identificarse
-          los materiales necesarios.
+        value: ORDEN
         type: 0
         typeString: CustomFieldType_Text
       - title: Parenthetical
@@ -2497,6 +2867,18 @@ MonoBehaviour:
           SetActive(Segunda S, true);'
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: ORDEN
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: SET IN ORDER
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 5
       isRoot: 0
       isGroup: 0
@@ -2518,8 +2900,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 19
-        y: 131
+        x: 30
+        y: 120
         width: 160
         height: 30
     - id: 3
@@ -2549,8 +2931,8 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: "Tu trabajo aqu\xED consiste simplemente en ordenar cada uno de los
-          objetos que clasificaste en la fase anterior."
+        value: "Tu trabajo aqu\xED consiste en ordenar cada uno de los objetos que
+          clasificaste en la fase anterior."
         type: 0
         typeString: CustomFieldType_Text
       - title: Parenthetical
@@ -2571,6 +2953,20 @@ MonoBehaviour:
           SetActive(Segunda S, false);'
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: "Tu trabajo aqu\xED consiste en ordenar cada uno de los objetos que
+          clasificaste en la fase anterior."
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: "Your job here is to order each of the objects that you classified
+          in the previous phase.\r"
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 5
       isRoot: 0
       isGroup: 0
@@ -2592,8 +2988,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 20
-        y: 181
+        x: 30
+        y: 220
         width: 160
         height: 30
     - id: 4
@@ -2623,7 +3019,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: "Para lograrlo, coloca los objetos electr\xF3nicos en este contenedor..."
+        value: "Para lograrlo, coloca los objetos electr\xF3nicos en este contenedor\u2026\r"
         type: 0
         typeString: CustomFieldType_Text
       - title: Parenthetical
@@ -2645,6 +3041,18 @@ MonoBehaviour:
           true);'
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: "Para lograrlo, coloca los objetos electr\xF3nicos en este contenedor\u2026\r"
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: To achieve this, place the electronic objects in THIS container ...
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 5
       isRoot: 0
       isGroup: 0
@@ -2666,8 +3074,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 23
-        y: 233
+        x: 35.31915
+        y: 270
         width: 160
         height: 30
     - id: 5
@@ -2697,7 +3105,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: "...y los objetos mec\xE1nicos aqu\xED."
+        value: "...y los objetos mec\xE1nicos aqu\xED.\r"
         type: 0
         typeString: CustomFieldType_Text
       - title: Parenthetical
@@ -2716,6 +3124,18 @@ MonoBehaviour:
         value: SetActive(Mecanico, true);
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: "...y los objetos mec\xE1nicos aqu\xED.\r"
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: ' ... and the mechanical objects HERE.'
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 5
       isRoot: 0
       isGroup: 0
@@ -2737,8 +3157,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 22.063828
-        y: 283
+        x: 30
+        y: 320
         width: 160
         height: 30
     - id: 6
@@ -2789,6 +3209,18 @@ MonoBehaviour:
           SetActive(Visual Aid, false);'
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: "\xA1Suerte!"
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: Good Luck!
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 5
       isRoot: 0
       isGroup: 0
@@ -2804,8 +3236,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 19
-        y: 331
+        x: 30
+        y: 370
         width: 160
         height: 30
     - id: 7
@@ -2835,8 +3267,9 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: "De manera que sea f\xE1cil y r\xE1pido encontrarlos, utilizarlos
-          y reponerlos. "
+        value: "Se trata de establecer el modo en que deben ubicarse e identificarse
+          los materiales necesarios para que sea f\xE1cil y r\xE1pido encontrarlos
+          y utilizarlos."
         type: 0
         typeString: CustomFieldType_Text
       - title: Parenthetical
@@ -2855,6 +3288,21 @@ MonoBehaviour:
         value: 
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: "Se trata de establecer el modo en que deben ubicarse e identificarse
+          los materiales necesarios para que sea f\xE1cil y r\xE1pido encontrarlos
+          y utilizarlos."
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: "It is about establishing how the necessary materials should be located
+          and identified so that it is easy and fast to find and use them.\r"
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 5
       isRoot: 0
       isGroup: 0
@@ -2876,8 +3324,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 212
-        y: 154
+        x: 30
+        y: 170
         width: 160
         height: 30
     canvasScrollPosition: {x: 0, y: 0}
@@ -2970,6 +3418,18 @@ MonoBehaviour:
         value: None()
         type: 0
         typeString: 
+      - title: es
+        value: 
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: 
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: 
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 6
       isRoot: 0
       isGroup: 0
@@ -3041,6 +3501,18 @@ MonoBehaviour:
         value: SetActive(FadeScreen, true);
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: "\xA1Buen trabajo! \r"
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: Nice job!
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 6
       isRoot: 0
       isGroup: 0
@@ -3112,6 +3584,18 @@ MonoBehaviour:
         value: 
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: "\xA1No perdamos m\xE1s tiempo y corramos a aplicar la siguiente S!"
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: Lets not waste any time and apply the next S!
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 6
       isRoot: 0
       isGroup: 0
@@ -3134,7 +3618,7 @@ MonoBehaviour:
       canvasRect:
         serializedVersion: 2
         x: 20
-        y: 130
+        y: 129
         width: 160
         height: 30
     - id: 3
@@ -3185,6 +3669,18 @@ MonoBehaviour:
           Continue();'
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: 
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: 
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: 
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 6
       isRoot: 0
       isGroup: 0
@@ -3294,6 +3790,18 @@ MonoBehaviour:
         value: None()
         type: 0
         typeString: 
+      - title: es
+        value: spanish
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: english
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 7
       isRoot: 0
       isGroup: 0
@@ -3365,6 +3873,18 @@ MonoBehaviour:
         value: SetActive(FadeScreen, true);
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: spanish
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: english
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 7
       isRoot: 0
       isGroup: 0
@@ -3437,6 +3957,18 @@ MonoBehaviour:
         value: SetActive(Tercera S, true);
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: spanish
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: english
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 7
       isRoot: 0
       isGroup: 0
@@ -3508,6 +4040,18 @@ MonoBehaviour:
         value: SetActive(Tercera S, false);
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: spanish
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: english
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 7
       isRoot: 0
       isGroup: 0
@@ -3580,6 +4124,18 @@ MonoBehaviour:
         value: SetActive(LiquidoMecanica, true);
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: spanish
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: english
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 7
       isRoot: 0
       isGroup: 0
@@ -3654,6 +4210,18 @@ MonoBehaviour:
           false);'
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: spanish
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: english
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 7
       isRoot: 0
       isGroup: 0
@@ -3763,6 +4331,18 @@ MonoBehaviour:
         value: None()
         type: 0
         typeString: 
+      - title: es
+        value: spanish
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: english
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 8
       isRoot: 0
       isGroup: 0
@@ -3835,6 +4415,18 @@ MonoBehaviour:
         value: 
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: spanish
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: english
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 8
       isRoot: 0
       isGroup: 0
@@ -3944,12 +4536,24 @@ MonoBehaviour:
         value: None()
         type: 0
         typeString: 
+      - title: es
+        value: spanish
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: english
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 9
       isRoot: 0
       isGroup: 0
       nodeColor: 
       delaySimStatus: 0
-      falseConditionAction: 
+      falseConditionAction: Block
       conditionPriority: 2
       outgoingLinks:
       - originConversationID: 9
@@ -4015,6 +4619,18 @@ MonoBehaviour:
         value: 
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: spanish
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: english
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 9
       isRoot: 0
       isGroup: 0
@@ -4086,6 +4702,18 @@ MonoBehaviour:
         value: 
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: spanish
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: english
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 9
       isRoot: 0
       isGroup: 0
@@ -4195,6 +4823,18 @@ MonoBehaviour:
         value: None()
         type: 0
         typeString: 
+      - title: es
+        value: spanish
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: english
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 10
       isRoot: 0
       isGroup: 0
@@ -4266,6 +4906,18 @@ MonoBehaviour:
         value: 
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: spanish
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: english
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 10
       isRoot: 0
       isGroup: 0
@@ -4338,6 +4990,18 @@ MonoBehaviour:
         value: 
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: spanish
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: english
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 10
       isRoot: 0
       isGroup: 0
@@ -4447,6 +5111,18 @@ MonoBehaviour:
         value: None()
         type: 0
         typeString: 
+      - title: es
+        value: spanish
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: english
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 11
       isRoot: 0
       isGroup: 0
@@ -4519,6 +5195,18 @@ MonoBehaviour:
         value: 
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: spanish
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: english
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 11
       isRoot: 0
       isGroup: 0
@@ -4628,6 +5316,18 @@ MonoBehaviour:
         value: None()
         type: 0
         typeString: 
+      - title: es
+        value: spanish
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: english
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 12
       isRoot: 0
       isGroup: 0
@@ -4699,6 +5399,18 @@ MonoBehaviour:
         value: SetActive(FadeScreen, true);
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: spanish
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: english
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 12
       isRoot: 0
       isGroup: 0
@@ -4771,6 +5483,18 @@ MonoBehaviour:
         value: 
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: spanish
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: english
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 12
       isRoot: 0
       isGroup: 0
@@ -4844,6 +5568,18 @@ MonoBehaviour:
         value: SetActive(Cuarta S, true);
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: spanish
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: english
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 12
       isRoot: 0
       isGroup: 0
@@ -4918,6 +5654,18 @@ MonoBehaviour:
           SetActive(Quinta S, true);'
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: spanish
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: english
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 12
       isRoot: 0
       isGroup: 0
@@ -4991,6 +5739,18 @@ MonoBehaviour:
         value: SetActive(Quinta S, false);
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: spanish
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: english
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 12
       isRoot: 0
       isGroup: 0
@@ -5063,6 +5823,18 @@ MonoBehaviour:
         value: 
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: spanish
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: english
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 12
       isRoot: 0
       isGroup: 0
@@ -5136,6 +5908,18 @@ MonoBehaviour:
           Continue();'
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: spanish
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: english
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 12
       isRoot: 0
       isGroup: 0
@@ -5245,6 +6029,18 @@ MonoBehaviour:
         value: None();
         type: 0
         typeString: 
+      - title: es
+        value: spanish
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: english
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 13
       isRoot: 0
       isGroup: 0
@@ -5319,6 +6115,18 @@ MonoBehaviour:
           SetActive(FadeScreen, true);'
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: spanish
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: english
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 13
       isRoot: 0
       isGroup: 0
@@ -5390,6 +6198,18 @@ MonoBehaviour:
         value: 
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: spanish
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: english
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 13
       isRoot: 0
       isGroup: 0
@@ -5462,6 +6282,18 @@ MonoBehaviour:
         value: SetActive(FadeScreen, false);
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: spanish
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: english
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 13
       isRoot: 0
       isGroup: 0
@@ -5571,6 +6403,18 @@ MonoBehaviour:
         value: None()
         type: 0
         typeString: 
+      - title: es
+        value: spanish
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: english
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 14
       isRoot: 0
       isGroup: 0
@@ -5642,6 +6486,18 @@ MonoBehaviour:
         value: SetActive(FadeScreen, true);
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: spanish
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: english
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 14
       isRoot: 0
       isGroup: 0
@@ -5713,6 +6569,18 @@ MonoBehaviour:
         value: 
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: spanish
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: english
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 14
       isRoot: 0
       isGroup: 0
@@ -5784,6 +6652,18 @@ MonoBehaviour:
         value: 
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: spanish
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: english
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 14
       isRoot: 0
       isGroup: 0
@@ -5855,6 +6735,18 @@ MonoBehaviour:
         value: 
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: spanish
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: english
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 14
       isRoot: 0
       isGroup: 0
@@ -5928,6 +6820,18 @@ MonoBehaviour:
           Continue();'
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: spanish
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: english
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 14
       isRoot: 0
       isGroup: 0
@@ -6037,6 +6941,18 @@ MonoBehaviour:
         value: None()
         type: 0
         typeString: 
+      - title: es
+        value: spanish
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: english
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 15
       isRoot: 0
       isGroup: 0
@@ -6108,6 +7024,18 @@ MonoBehaviour:
         value: Continue();
         type: 0
         typeString: CustomFieldType_Text
+      - title: es
+        value: spanish
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: english
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 15
       isRoot: 0
       isGroup: 0
