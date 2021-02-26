@@ -2969,6 +2969,7 @@ GameObject:
   - component: {fileID: 1517643802}
   - component: {fileID: 1517643803}
   - component: {fileID: 1517643804}
+  - component: {fileID: 1517643805}
   m_Layer: 0
   m_Name: Blackboard
   m_TagString: Untagged
@@ -3109,6 +3110,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 057bda0e32b11e34a91244e284e7f372, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &1517643805
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1517643796}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2f78b9eaeb516446a824aebad3f2640, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  CurrentObjective_ES: "Utilizando el bot\xF3n, coloca los elementos de la esfera
+    en los contenedores correspondientes."
+  CurrentObjective_EN: Using the button, place the elements of the sphere in the
+    corresponding containers.
+  CurrentObjective_PT: 
 --- !u!1 &1591491529
 GameObject:
   m_ObjectHideFlags: 0

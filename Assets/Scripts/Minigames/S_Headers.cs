@@ -8,7 +8,6 @@ using UnityEngine;
 public class S_Headers : MonoBehaviour
 {
     private TMP_Text _headerField;
-    private string _currentLang = "";
     
     public string esHeaderContent = "";
     public string enHeaderContent = "";
@@ -19,9 +18,9 @@ public class S_Headers : MonoBehaviour
         _headerField = GetComponent<TMP_Text>();
         
         // En teoria esto funca.
-        _currentLang = Localization.language;
+        string currentLang = Localization.language;
 
-        switch (_currentLang)
+        switch (currentLang)
         {
             case "es":
                 _headerField.text = esHeaderContent;

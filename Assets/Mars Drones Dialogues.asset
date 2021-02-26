@@ -3874,11 +3874,11 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: es
-        value: spanish
+        value: "En esta habitaci\xF3n aplicaremos la Tercera S \"LIMPIEZA\"."
         type: 4
         typeString: CustomFieldType_Localization
       - title: en
-        value: english
+        value: "In this room we will apply the Third S \"CLEANING\".\r"
         type: 4
         typeString: CustomFieldType_Localization
       - title: pt
@@ -3958,11 +3958,13 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: es
-        value: spanish
+        value: "Esta S est\xE1 basada en identificar y eliminar las fuentes de suciedad,
+          asegurando que todos los medios se encuentran siempre en perfecto estado."
         type: 4
         typeString: CustomFieldType_Localization
       - title: en
-        value: english
+        value: "This S consists of  identifying and eliminating sources of dirt,
+          ensuring that all media are always in perfect condition.\r"
         type: 4
         typeString: CustomFieldType_Localization
       - title: pt
@@ -4041,11 +4043,11 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: es
-        value: spanish
+        value: "Haz uso de Espo-dron para limpiar l\xEDquidos y suciedades.\r"
         type: 4
         typeString: CustomFieldType_Localization
       - title: en
-        value: english
+        value: "Make use of Spo-drone to clean liquids and dirt.\r"
         type: 4
         typeString: CustomFieldType_Localization
       - title: pt
@@ -4125,11 +4127,13 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: es
-        value: spanish
+        value: Para limpiarlos simplemente debes frotar las zonas afectadas con Espo-dron
+          guiandolo con tus dedos.
         type: 4
         typeString: CustomFieldType_Localization
       - title: en
-        value: english
+        value: To clean them you just have to rub the affected areas with Espo-drone
+          guiding it with your fingers.
         type: 4
         typeString: CustomFieldType_Localization
       - title: pt
@@ -4211,11 +4215,11 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: es
-        value: spanish
+        value: "\xA1Suerte!\r"
         type: 4
         typeString: CustomFieldType_Localization
       - title: en
-        value: english
+        value: "Luck!\r"
         type: 4
         typeString: CustomFieldType_Localization
       - title: pt
@@ -5317,15 +5321,15 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: es
-        value: spanish
+        value: 
         type: 4
         typeString: CustomFieldType_Localization
       - title: en
-        value: english
+        value: 
         type: 4
         typeString: CustomFieldType_Localization
       - title: pt
-        value: portuguese
+        value: 
         type: 4
         typeString: CustomFieldType_Localization
       conversationID: 12
@@ -5349,8 +5353,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 20
-        y: 30
+        x: 30
+        y: 20
         width: 160
         height: 30
     - id: 1
@@ -5380,7 +5384,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: "\xA1Excelente trabajo Operario!\r"
+        value: "\xA1Excelente trabajo!\r"
         type: 0
         typeString: CustomFieldType_Text
       - title: Parenthetical
@@ -5400,11 +5404,11 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: es
-        value: spanish
+        value: "\xA1Excelente trabajo!"
         type: 4
         typeString: CustomFieldType_Localization
       - title: en
-        value: english
+        value: Excellent Job!
         type: 4
         typeString: CustomFieldType_Localization
       - title: pt
@@ -5432,8 +5436,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 20
-        y: 80
+        x: 30
+        y: 70
         width: 160
         height: 30
     - id: 2
@@ -5484,7 +5488,8 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: es
-        value: spanish
+        value: "A continuaci\xF3n, te ense\xF1ar\xE9 en qu\xE9 consisten las siguientes
+          \"S\"."
         type: 4
         typeString: CustomFieldType_Localization
       - title: en
@@ -5506,7 +5511,7 @@ MonoBehaviour:
       - originConversationID: 12
         originDialogueID: 2
         destinationConversationID: 12
-        destinationDialogueID: 3
+        destinationDialogueID: 8
         isConnector: 0
         priority: 2
       conditionsString: 
@@ -5516,8 +5521,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 20
-        y: 131.26582
+        x: 30
+        y: 120
         width: 160
         height: 30
     - id: 3
@@ -5531,7 +5536,7 @@ MonoBehaviour:
         type: 3
         typeString: CustomFieldType_Files
       - title: Description
-        value: CONTROL VISUAL
+        value: 
         type: 0
         typeString: CustomFieldType_Text
       - title: Actor
@@ -5548,8 +5553,7 @@ MonoBehaviour:
         typeString: CustomFieldType_Text
       - title: Dialogue Text
         value: "El objetivo de la Cuarta \"S\" es  distinguir f\xE1cilmente una situaci\xF3n
-          normal de otra anormal, mediante normas sencillas y visibles para todos.
-          \r"
+          normal de otra anormal, mediante normas sencillas y visibles para todos. "
         type: 0
         typeString: CustomFieldType_Text
       - title: Parenthetical
@@ -5565,11 +5569,12 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: SetActive(Cuarta S, true);
+        value: 
         type: 0
         typeString: CustomFieldType_Text
       - title: es
-        value: spanish
+        value: "El objetivo de la Cuarta \"S\" es  distinguir f\xE1cilmente una situaci\xF3n
+          normal de otra anormal, mediante normas sencillas y visibles para todos. "
         type: 4
         typeString: CustomFieldType_Localization
       - title: en
@@ -5591,7 +5596,7 @@ MonoBehaviour:
       - originConversationID: 12
         originDialogueID: 3
         destinationConversationID: 12
-        destinationDialogueID: 4
+        destinationDialogueID: 9
         isConnector: 0
         priority: 2
       conditionsString: 
@@ -5601,8 +5606,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 16.703293
-        y: 180
+        x: 30
+        y: 220
         width: 160
         height: 30
     - id: 4
@@ -5649,17 +5654,17 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 'SetActive(Cuarta S, false);
-
-          SetActive(Quinta S, true);'
+        value: 
         type: 0
         typeString: CustomFieldType_Text
       - title: es
-        value: spanish
+        value: 'La Quinta "S" consiste en trabajar permanentemente de acuerdo con
+          las normas establecidas. '
         type: 4
         typeString: CustomFieldType_Localization
       - title: en
-        value: english
+        value: This fifth and final "S" consists of working permanently in accordance
+          with the established norms.
         type: 4
         typeString: CustomFieldType_Localization
       - title: pt
@@ -5687,8 +5692,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 20
-        y: 229
+        x: 30
+        y: 320
         width: 160
         height: 30
     - id: 5
@@ -5718,9 +5723,8 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: "Estas dos \"S\" debes aplicarlas en tu dia a dia, siempre haciendo
-          un esfuerzo por mantenerse disciplinado y manteniendo el control visual
-          de tu zona de trabajo.\r"
+        value: "Debes aplicar estas dos \"S\" a diario para mantenerte disciplinado
+          y mantener el control visual de tu zona de trabajo.\r"
         type: 0
         typeString: CustomFieldType_Text
       - title: Parenthetical
@@ -5740,11 +5744,13 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: es
-        value: spanish
+        value: "Debes aplicar estas dos \"S\" a diario para mantenerte disciplinado
+          y mantener el control visual de tu zona de trabajo.\r"
         type: 4
         typeString: CustomFieldType_Localization
       - title: en
-        value: english
+        value: These two "S's" should be applied daily to stay disciplined and maintain
+          visual control of your work zone.
         type: 4
         typeString: CustomFieldType_Localization
       - title: pt
@@ -5772,8 +5778,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 20
-        y: 279
+        x: 30
+        y: 370
         width: 160
         height: 30
     - id: 6
@@ -5824,11 +5830,13 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: es
-        value: spanish
+        value: "Lo \xFAltimo que me queda por mostrarte es el fruto de tus esfuerzos
+          al aplicar la metodolog\xEDa de \"Las Cinco S\".\r"
         type: 4
         typeString: CustomFieldType_Localization
       - title: en
-        value: english
+        value: The last thing I have left to show you is the fruit of your efforts
+          in applying the "The Five S" methodology.
         type: 4
         typeString: CustomFieldType_Localization
       - title: pt
@@ -5856,8 +5864,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 20
-        y: 329
+        x: 34.25531
+        y: 422.12766
         width: 160
         height: 30
     - id: 7
@@ -5909,11 +5917,11 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: es
-        value: spanish
+        value: "Volvamos a donde empez\xF3 tu labor..."
         type: 4
         typeString: CustomFieldType_Localization
       - title: en
-        value: english
+        value: Let's go back to where your work began ...
         type: 4
         typeString: CustomFieldType_Localization
       - title: pt
@@ -5935,12 +5943,180 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 20
-        y: 380.2658
+        x: 30
+        y: 470
         width: 160
         height: 30
-    canvasScrollPosition: {x: 0, y: 33.23552}
-    canvasZoom: 0.79000044
+    - id: 8
+      fields:
+      - title: Title
+        value: 
+        type: 0
+        typeString: CustomFieldType_Text
+      - title: Pictures
+        value: '[]'
+        type: 3
+        typeString: CustomFieldType_Files
+      - title: Description
+        value: 
+        type: 0
+        typeString: CustomFieldType_Text
+      - title: Actor
+        value: 1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Conversant
+        value: -1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: CustomFieldType_Text
+      - title: Dialogue Text
+        value: "ESTANDARIZACI\xD3N"
+        type: 0
+        typeString: CustomFieldType_Text
+      - title: Parenthetical
+        value: 
+        type: 0
+        typeString: CustomFieldType_Text
+      - title: Audio Files
+        value: '[]'
+        type: 3
+        typeString: CustomFieldType_Files
+      - title: Video File
+        value: 
+        type: 0
+        typeString: CustomFieldType_Text
+      - title: Sequence
+        value: SetActive(Cuarta S, true);
+        type: 0
+        typeString: CustomFieldType_Text
+      - title: es
+        value: "ESTANDARIZACI\xD3N"
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: STANDARDIZATION
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: 
+        type: 4
+        typeString: CustomFieldType_Localization
+      conversationID: 12
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 12
+        originDialogueID: 8
+        destinationConversationID: 12
+        destinationDialogueID: 3
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      onExecute:
+        m_PersistentCalls:
+          m_Calls: []
+      canvasRect:
+        serializedVersion: 2
+        x: 28.936172
+        y: 172.12769
+        width: 160
+        height: 30
+    - id: 9
+      fields:
+      - title: Title
+        value: 
+        type: 0
+        typeString: CustomFieldType_Text
+      - title: Pictures
+        value: '[]'
+        type: 3
+        typeString: CustomFieldType_Files
+      - title: Description
+        value: 
+        type: 0
+        typeString: CustomFieldType_Text
+      - title: Actor
+        value: 1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Conversant
+        value: -1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: CustomFieldType_Text
+      - title: Dialogue Text
+        value: "DISCIPLINA Y H\xC1BITO"
+        type: 0
+        typeString: CustomFieldType_Text
+      - title: Parenthetical
+        value: 
+        type: 0
+        typeString: CustomFieldType_Text
+      - title: Audio Files
+        value: '[]'
+        type: 3
+        typeString: CustomFieldType_Files
+      - title: Video File
+        value: 
+        type: 0
+        typeString: CustomFieldType_Text
+      - title: Sequence
+        value: 'SetActive(Cuarta S, false);
+
+          SetActive(Quinta S, true);'
+        type: 0
+        typeString: CustomFieldType_Text
+      - title: es
+        value: "DISCIPLINA Y H\xC1BITO"
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: en
+        value: DISCIPLINE AND HABIT
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: pt
+        value: portuguese
+        type: 4
+        typeString: CustomFieldType_Localization
+      conversationID: 12
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 12
+        originDialogueID: 9
+        destinationConversationID: 12
+        destinationDialogueID: 4
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      onExecute:
+        m_PersistentCalls:
+          m_Calls: []
+      canvasRect:
+        serializedVersion: 2
+        x: 30
+        y: 268.9362
+        width: 160
+        height: 30
+    canvasScrollPosition: {x: 0, y: 0}
+    canvasZoom: 0.9400004
   - id: 13
     fields:
     - title: Title
@@ -6030,15 +6206,15 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: es
-        value: spanish
+        value: 
         type: 4
         typeString: CustomFieldType_Localization
       - title: en
-        value: english
+        value: 
         type: 4
         typeString: CustomFieldType_Localization
       - title: pt
-        value: portuguese
+        value: 
         type: 4
         typeString: CustomFieldType_Localization
       conversationID: 13
@@ -6093,8 +6269,8 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: "\\,Tu \xFAltima tarea por hoy es volver a ensamblar los mismos drones
-          que al inicio del proceso.\r"
+        value: "Tu \xFAltima tarea es volver a ensamblar los mismos drones que al
+          inicio del proceso."
         type: 0
         typeString: CustomFieldType_Text
       - title: Parenthetical
@@ -6116,11 +6292,13 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: es
-        value: spanish
+        value: "Tu \xFAltima tarea es volver a ensamblar los mismos drones que al
+          inicio del proceso."
         type: 4
         typeString: CustomFieldType_Localization
       - title: en
-        value: english
+        value: "Your last task is to reassemble the same drones as at the beginning
+          of the process.\r"
         type: 4
         typeString: CustomFieldType_Localization
       - title: pt
@@ -6179,7 +6357,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: "\\,Solo que ahora tu zona de trabajo est\xE1 ordenada y limpia.\r"
+        value: "Solo que ahora tu zona de trabajo est\xE1 ordenada y limpia."
         type: 0
         typeString: CustomFieldType_Text
       - title: Parenthetical
@@ -6199,11 +6377,11 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: es
-        value: spanish
+        value: "Solo que ahora tu zona de trabajo est\xE1 ordenada y limpia."
         type: 4
         typeString: CustomFieldType_Localization
       - title: en
-        value: english
+        value: Only now your work area is neat and clean.
         type: 4
         typeString: CustomFieldType_Localization
       - title: pt
@@ -6262,8 +6440,8 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: "\\,\xA1Hazlo lo m\xE1s r\xE1pido que puedas y te mostrar\xE9 la diferencia
-          de eficiencia en tiempos de producci\xF3n!\r"
+        value: "\xA1Haz lo m\xE1s r\xE1pido que puedas y te mostrar\xE9 la diferencia
+          de eficiencia en tiempos de producci\xF3n!"
         type: 0
         typeString: CustomFieldType_Text
       - title: Parenthetical
@@ -6283,11 +6461,13 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: es
-        value: spanish
+        value: "\xA1Haz lo m\xE1s r\xE1pido que puedas y te mostrar\xE9 la diferencia
+          de eficiencia en tiempos de producci\xF3n!"
         type: 4
         typeString: CustomFieldType_Localization
       - title: en
-        value: english
+        value: Do it as fast as you can and I will show you the difference in efficiency
+          in production times!
         type: 4
         typeString: CustomFieldType_Localization
       - title: pt
@@ -6404,15 +6584,15 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: es
-        value: spanish
+        value: 
         type: 4
         typeString: CustomFieldType_Localization
       - title: en
-        value: english
+        value: 
         type: 4
         typeString: CustomFieldType_Localization
       - title: pt
-        value: portuguese
+        value: 
         type: 4
         typeString: CustomFieldType_Localization
       conversationID: 14
@@ -6487,11 +6667,11 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: es
-        value: spanish
+        value: "\\,\xA1Excelente!\r"
         type: 4
         typeString: CustomFieldType_Localization
       - title: en
-        value: english
+        value: Excellent!
         type: 4
         typeString: CustomFieldType_Localization
       - title: pt
@@ -6550,7 +6730,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: "\\,Recuerda que trabajar de forma ordenada impacta la productividad.\r"
+        value: Recuerda que trabajar de forma ordenada impacta en la productividad.
         type: 0
         typeString: CustomFieldType_Text
       - title: Parenthetical
@@ -6570,11 +6750,11 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: es
-        value: spanish
+        value: Recuerda que trabajar de forma ordenada impacta en la productividad.
         type: 4
         typeString: CustomFieldType_Localization
       - title: en
-        value: english
+        value: "Remember that working in an orderly manner impacts on productivity.\r"
         type: 4
         typeString: CustomFieldType_Localization
       - title: pt
@@ -6633,7 +6813,8 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: "\\,Veamos tus tiempos finales. \xA1Te deseo mucha suerte Operario!\r"
+        value: "Veamos tus tiempos finales y tu porcentaje de eficiencia. \xA1Te
+          deseo mucha suerte trabajador!"
         type: 0
         typeString: CustomFieldType_Text
       - title: Parenthetical
@@ -6653,11 +6834,12 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: es
-        value: spanish
+        value: "Veamos tus tiempos finales y tu porcentaje de eficiencia. \xA1Te
+          deseo mucha suerte trabajador!"
         type: 4
         typeString: CustomFieldType_Localization
       - title: en
-        value: english
+        value: Let's see your timing and your efficiency percentage.
         type: 4
         typeString: CustomFieldType_Localization
       - title: pt
@@ -6736,11 +6918,11 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: es
-        value: spanish
+        value: "\\,\xA1Adios!\r"
         type: 4
         typeString: CustomFieldType_Localization
       - title: en
-        value: english
+        value: 'Good luck and goodbye worker! '
         type: 4
         typeString: CustomFieldType_Localization
       - title: pt
@@ -6775,7 +6957,7 @@ MonoBehaviour:
     - id: 6
       fields:
       - title: Title
-        value: New Dialogue Entry
+        value: 
         type: 0
         typeString: CustomFieldType_Text
       - title: Pictures
@@ -6821,15 +7003,15 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: es
-        value: spanish
+        value: 
         type: 4
         typeString: CustomFieldType_Localization
       - title: en
-        value: english
+        value: 
         type: 4
         typeString: CustomFieldType_Localization
       - title: pt
-        value: portuguese
+        value: 
         type: 4
         typeString: CustomFieldType_Localization
       conversationID: 14

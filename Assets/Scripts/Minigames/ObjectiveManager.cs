@@ -24,8 +24,6 @@ public class ObjectiveManager : MonoBehaviour
         Instance = this;
     }
 
-
-
     public void SetCurrentObjective(string obj)
     {
         ObjBody.text = obj;

@@ -587,6 +587,7 @@
             <e p="RecallManager.cs" t="Include" />
             <e p="TransponderLight.cs" t="Include" />
           </e>
+          <e p="LocButtons.cs" t="Include" />
           <e p="Manager.cs" t="Include" />
           <e p="Minigames" t="Include">
             <e p="Fase 0" t="Include">
@@ -641,6 +642,7 @@
             <e p="SequencerCommandOpen.cs" t="Include" />
             <e p="SequencerCommandTargetedFade.cs" t="Include" />
           </e>
+          <e p="TextWriterOnLoc.cs" t="Include" />
           <e p="TransitionAnimationHandler.cs" t="Include" />
         </e>
         <e p="TextMesh Pro" t="Include">

@@ -22,11 +22,27 @@
     <list default="true" id="e52e1de4-6c8a-48b6-b243-1a6415c58581" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Mars-Drones/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Mars-Drones/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Mars-Drones/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Mars-Drones/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/A_Scenes/Credits.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/A_Scenes/Credits.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/A_Scenes/Ending.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/A_Scenes/Ending.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/A_Scenes/Fase 0.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/A_Scenes/Fase 0.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/A_Scenes/Fase 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/A_Scenes/Fase 1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/A_Scenes/Fase 2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/A_Scenes/Fase 2.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/A_Scenes/Fase 3.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/A_Scenes/Fase 3.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/A_Scenes/Fase 4.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/A_Scenes/Fase 4.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/A_Scenes/LogoReveal.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/A_Scenes/LogoReveal.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/A_Scenes/MainMenu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/A_Scenes/MainMenu.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/A_Scenes/MidTempo 0.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/A_Scenes/MidTempo 0.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/A_Scenes/MidTempo 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/A_Scenes/MidTempo 1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/A_Scenes/MidTempo 2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/A_Scenes/MidTempo 2.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/A_Scenes/MidTempo 3.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/A_Scenes/MidTempo 3.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Mars Drones Dialogues (Auto-Backup).asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Mars Drones Dialogues (Auto-Backup).asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Mars Drones Dialogues (Auto-Backup).asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Mars Drones Dialogues (Auto-Backup).asset.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Mars Drones Dialogues.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Mars Drones Dialogues.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Dialogue Manager.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Dialogue Manager.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Minigames/General/Objective.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Minigames/General/Objective.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Minigames/ObjectiveManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Minigames/ObjectiveManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Minigames/S_Headers.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Minigames/S_Headers.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/TransitionAnimationHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/TransitionAnimationHandler.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +55,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Elements/AdditionalData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 0/Matching_Phase_Spawner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TextWriterOnLoc.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MMButtons.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Minigames/General/SpawnLocation.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Manager.cs" root0="FORCE_HIGHLIGHTING" />
@@ -50,6 +67,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Boundaries/SoftBoundaries.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Minigames/S_Headers.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Boundaries/HardBoundaries.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TransitionAnimationHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 0/Matching_Phase_Element_Behaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 0/Matching_Phase_Manager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AudioSystem/AudioManager.cs" root0="FORCE_HIGHLIGHTING" />
@@ -57,9 +75,11 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AudioSystem/MusicLibrary.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Minigames/ObjectiveManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Minigames/General/Objective.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LocButtons.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 1/Sphere_Phase_Manager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 1/Sphere_Phase_Placement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 1/Sphere_Phase_Spawner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/88B20DE7-DAFA-46B6-8023-5A9937B07B34/35/28675d32/Localization.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Lights/RecallManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 2/Arrange_Phase_Placement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Helpers/ListUtils.cs" root0="FORCE_HIGHLIGHTING" />
@@ -79,9 +99,13 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Elements/AdditionalData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 0/Matching_Phase_Element_Behaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Minigames/ObjetiveManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Minigames/ObjectiveManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Minigames/General/Objective.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Minigames/GameManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Minigames/S_Headers.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Minigames/ObjectiveManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TransitionAnimationHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LocButtons.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TextWriterOnLoc.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Minigames/General/Objective.cs" />
       </list>
     </option>
   </component>
@@ -98,6 +122,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -131,7 +156,8 @@
       <updated>1612215469420</updated>
       <workItem from="1612215496420" duration="4925000" />
       <workItem from="1612269661045" duration="6815000" />
-      <workItem from="1614223241999" duration="2036000" />
+      <workItem from="1614223241999" duration="2126000" />
+      <workItem from="1614290525924" duration="13383000" />
     </task>
     <servers />
   </component>
@@ -156,6 +182,10 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1674" height="896" key="VCS.FileHistoryDialog" timestamp="1614299619284">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="92" y="92" width="1674" height="896" key="VCS.FileHistoryDialog/0.0.1858.1080/-1920.0.1858.1080@0.0.1858.1080" timestamp="1614299619284" />
     <state x="592" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1612270558620">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>

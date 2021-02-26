@@ -1051,9 +1051,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2f78b9eaeb516446a824aebad3f2640, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  CurrentObjective_ESP: Dar inicio a la sesion de entrenamiento sobre las "5s".
-  CurrentObjective_ENG: 
-  CurrentObjective_PORT: 
+  CurrentObjective_ES: Presiona el boton de Jugar para iniciar.
+  CurrentObjective_EN: Press the "Jugar" button to play.
+  CurrentObjective_PT: 
 --- !u!1 &1591491529
 GameObject:
   m_ObjectHideFlags: 0

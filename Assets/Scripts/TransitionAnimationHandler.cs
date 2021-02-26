@@ -7,6 +7,7 @@ public class TransitionAnimationHandler : MonoBehaviour
     public static TransitionAnimationHandler Instance;
 
     public bool isPlayingAnimation;
+    public bool playOnStart = true;
 
     [SerializeField] Animator transitionAnimator = null;
 
@@ -25,7 +26,7 @@ public class TransitionAnimationHandler : MonoBehaviour
 
     private void Start()
     {
-        Opening();
+        if(playOnStart) Opening();
     }
 
     public void Closing()

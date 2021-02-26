@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/A_Scenes/LogoReveal.unity
     guid: 3500f7a1528801245a1d3731b9408a5f
   - enabled: 1
+    path: Assets/A_Scenes/Lang-Selector-Intro.unity
+    guid: 4b90bdc07aefcb449ac093148f43dd58
+  - enabled: 1
     path: Assets/A_Scenes/MainMenu.unity
     guid: f78d40a1751857340be2113b54d7998c
   - enabled: 1
