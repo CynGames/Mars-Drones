@@ -3,6 +3,7 @@ using UnityEngine;
 using TMPro;
 using UnityEngine.SceneManagement;
 using CrunchTools.AudioSystem;
+using PixelCrushers.DialogueSystem;
 using UnityEngine.Analytics;
 
 public class Scoreboard : MonoBehaviour
@@ -64,7 +65,7 @@ public class Scoreboard : MonoBehaviour
         string minutes = ((int)t / 60).ToString("0#");
         string seconds = (t % 60).ToString("#");
 
-        textClock.text = minutes + "mins " + seconds + "segs";
+        textClock.text = minutes + " : " + seconds + " ";
     }
 
     void GetPerformancePercentile()
@@ -75,19 +76,33 @@ public class Scoreboard : MonoBehaviour
         
         if (percent <= 0)
         {
-            outcome = "...hubo mejor rendimiento SIN las 5S..?!";
+            outcome = 
+                (Localization.Language == "es") ? "...¡¿hubo mejor rendimiento SIN las 5S..?!" : 
+                (Localization.Language == "en") ? "... there was better performance WITHOUT 5S ..?!" :
+                "... teve melhor desempenho SEM 5S ..?!";
+            
+            
         }
         else if (percent > 0 && percent <= 20)
         {
-            outcome = "Tuviste una ligera mejora en tu eficiencia!";
+            outcome = 
+                (Localization.Language == "es") ? "¡Tuviste una ligera mejoría en tu eficiencia!" : 
+                (Localization.Language == "en") ? "You had a slight improvement in your efficiency!" :
+                "Você teve uma ligeira melhora em sua eficiência!";
         }
         else if (percent > 20 && percent <= 50)
         {
-            outcome = "Felicidades! Tuviste una muy buena mejora en tiempo!";
+            outcome = 
+                (Localization.Language == "es") ? "¡Felicidades! ¡Tuviste una muy buena mejora en tiempo!" : 
+                (Localization.Language == "en") ? "Congratulations! You had a very good improvement in time!" :
+                "Parabéns! Você teve uma melhora muito boa no tempo!";
         }
         else
         {
-            outcome = "Excelente rendimiento! Tu mejora de tiempo fue enorme!";
+            outcome = 
+                (Localization.Language == "es") ? "¡Excelente rendimiento! ¡Tu mejora de tiempo fue enorme!" : 
+                (Localization.Language == "en") ? "Excellent performance! Your time improvement was huge!" :
+                "Excelente desempenho! A sua melhoria de tempo foi enorme!";
         }
 
         Outcome.text = outcome;

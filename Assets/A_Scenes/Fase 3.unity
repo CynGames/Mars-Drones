@@ -3064,6 +3064,7 @@ GameObject:
   - component: {fileID: 1006152645}
   - component: {fileID: 1006152647}
   - component: {fileID: 1006152646}
+  - component: {fileID: 1006152648}
   m_Layer: 5
   m_Name: Label
   m_TagString: Untagged
@@ -3209,6 +3210,23 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1006152644}
   m_CullTransparentMesh: 0
+--- !u!114 &1006152648
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1006152644}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ebc1e90a3491d948bdcfa3c33acd701, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  checkForLocSettings: 1
+  textField: {fileID: 1006152646}
+  textES: 'Tiempo:'
+  textEN: 'Time:'
+  textPT: 'Tempo:'
 --- !u!1 &1025896115
 GameObject:
   m_ObjectHideFlags: 0

@@ -698,6 +698,7 @@ GameObject:
   - component: {fileID: 179809587}
   - component: {fileID: 179809589}
   - component: {fileID: 179809588}
+  - component: {fileID: 179809590}
   m_Layer: 5
   m_Name: Phase 1
   m_TagString: Untagged
@@ -844,6 +845,23 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 179809586}
   m_CullTransparentMesh: 0
+--- !u!114 &179809590
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 179809586}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ebc1e90a3491d948bdcfa3c33acd701, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  checkForLocSettings: 1
+  textField: {fileID: 0}
+  textES: 'Primera S: '
+  textEN: 'First S:'
+  textPT: 'Primeiro S:'
 --- !u!1 &256138180
 GameObject:
   m_ObjectHideFlags: 0
@@ -935,6 +953,7 @@ GameObject:
   - component: {fileID: 485172150}
   - component: {fileID: 485172152}
   - component: {fileID: 485172151}
+  - component: {fileID: 485172153}
   m_Layer: 5
   m_Name: Phase 4
   m_TagString: Untagged
@@ -1081,6 +1100,23 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 485172149}
   m_CullTransparentMesh: 0
+--- !u!114 &485172153
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 485172149}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ebc1e90a3491d948bdcfa3c33acd701, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  checkForLocSettings: 1
+  textField: {fileID: 0}
+  textES: 'Fase Final: '
+  textEN: 'Final phase:'
+  textPT: 'Fase final:'
 --- !u!1 &530034317
 GameObject:
   m_ObjectHideFlags: 0
@@ -1092,6 +1128,7 @@ GameObject:
   - component: {fileID: 530034318}
   - component: {fileID: 530034320}
   - component: {fileID: 530034319}
+  - component: {fileID: 530034321}
   m_Layer: 5
   m_Name: Phase 0
   m_TagString: Untagged
@@ -1238,6 +1275,23 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 530034317}
   m_CullTransparentMesh: 0
+--- !u!114 &530034321
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 530034317}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ebc1e90a3491d948bdcfa3c33acd701, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  checkForLocSettings: 1
+  textField: {fileID: 0}
+  textES: 'Fase Inicial: '
+  textEN: 'Initial phase:'
+  textPT: 'Fase Inicial: '
 --- !u!1 &544111690
 GameObject:
   m_ObjectHideFlags: 0
@@ -1471,6 +1525,7 @@ GameObject:
   - component: {fileID: 712542324}
   - component: {fileID: 712542326}
   - component: {fileID: 712542325}
+  - component: {fileID: 712542327}
   m_Layer: 5
   m_Name: Phase 3
   m_TagString: Untagged
@@ -1617,6 +1672,23 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 712542323}
   m_CullTransparentMesh: 0
+--- !u!114 &712542327
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 712542323}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ebc1e90a3491d948bdcfa3c33acd701, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  checkForLocSettings: 1
+  textField: {fileID: 0}
+  textES: 'Tercera S:'
+  textEN: 'Third S:'
+  textPT: 'Terceiro S:'
 --- !u!1 &842211956
 GameObject:
   m_ObjectHideFlags: 0
@@ -1784,6 +1856,7 @@ GameObject:
   - component: {fileID: 845273882}
   - component: {fileID: 845273884}
   - component: {fileID: 845273883}
+  - component: {fileID: 845273885}
   m_Layer: 5
   m_Name: Title
   m_TagString: Untagged
@@ -1929,6 +2002,23 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 845273881}
   m_CullTransparentMesh: 0
+--- !u!114 &845273885
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 845273881}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ebc1e90a3491d948bdcfa3c33acd701, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  checkForLocSettings: 1
+  textField: {fileID: 0}
+  textES: Tabla de Tiempos
+  textEN: Timetable
+  textPT: "Calend\xE1rio"
 --- !u!1 &999235650
 GameObject:
   m_ObjectHideFlags: 0
@@ -1940,6 +2030,7 @@ GameObject:
   - component: {fileID: 999235651}
   - component: {fileID: 999235653}
   - component: {fileID: 999235652}
+  - component: {fileID: 999235654}
   m_Layer: 5
   m_Name: Phase 2
   m_TagString: Untagged
@@ -2086,6 +2177,23 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 999235650}
   m_CullTransparentMesh: 0
+--- !u!114 &999235654
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 999235650}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ebc1e90a3491d948bdcfa3c33acd701, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  checkForLocSettings: 1
+  textField: {fileID: 0}
+  textES: 'Segunda S: '
+  textEN: 'Second S:'
+  textPT: 'Segundo S:'
 --- !u!1 &1186938665
 GameObject:
   m_ObjectHideFlags: 0
@@ -2672,6 +2780,7 @@ GameObject:
   - component: {fileID: 1622732040}
   - component: {fileID: 1622732042}
   - component: {fileID: 1622732041}
+  - component: {fileID: 1622732043}
   m_Layer: 5
   m_Name: Fixed Label
   m_TagString: Untagged
@@ -2818,6 +2927,26 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1622732039}
   m_CullTransparentMesh: 0
+--- !u!114 &1622732043
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1622732039}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ebc1e90a3491d948bdcfa3c33acd701, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  checkForLocSettings: 1
+  textField: {fileID: 0}
+  textES: 'El porcentaje de mejora de la actividad pre-5s con respecto a la final
+    es del:'
+  textEN: 'The percentage of improvement in pre-5s activity compared to the final
+    one is:'
+  textPT: "A porcentagem de melhoria na atividade pr\xE9-5s em compara\xE7\xE3o com
+    a final \xE9:"
 --- !u!1 &1709497178
 GameObject:
   m_ObjectHideFlags: 0
@@ -2985,6 +3114,7 @@ GameObject:
   - component: {fileID: 1853376843}
   - component: {fileID: 1853376845}
   - component: {fileID: 1853376844}
+  - component: {fileID: 1853376846}
   m_Layer: 5
   m_Name: Title
   m_TagString: Untagged
@@ -3130,6 +3260,23 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1853376842}
   m_CullTransparentMesh: 0
+--- !u!114 &1853376846
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1853376842}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ebc1e90a3491d948bdcfa3c33acd701, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  checkForLocSettings: 1
+  textField: {fileID: 0}
+  textES: Porcentaje de Mejora
+  textEN: Percentage of Improvement
+  textPT: Porcentagem de melhoria
 --- !u!1 &2032198938
 GameObject:
   m_ObjectHideFlags: 0

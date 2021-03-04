@@ -7,6 +7,7 @@ using UnityEngine;
 
 public class TextWriterOnLoc : MonoBehaviour
 {
+    public bool checkForLocSettings = true;
     public TMP_Text textField;
     [Space]
     [TextArea(3,10)] public string textES;
@@ -16,11 +17,18 @@ public class TextWriterOnLoc : MonoBehaviour
     private void Start()
     {
         LocButtons.LangUpdateHandler += OnLangUpdate;
+
+        textField = textField ?? GetComponent<TMP_Text>();
+        
+        if (checkForLocSettings)
+        {
+            OnLangUpdate();
+        }
     }
 
     private void OnLangUpdate()
     {
-        switch (Localization.Language)
+        switch (GameManager.LocSetting)
         {
             case "es":
                 textField.text = textES;

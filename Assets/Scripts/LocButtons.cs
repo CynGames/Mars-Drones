@@ -7,13 +7,19 @@ using UnityEngine;
 public class LocButtons : MonoBehaviour
 {
     public string langCode;
-
+    public Animator animator;
+    
     public static event Action LangUpdateHandler;
 
     public void SetLanguage()
     {
-        Localization.Language = langCode;
+        GameManager.LocSetting = langCode;
         
         LangUpdateHandler?.Invoke();
+    }
+
+    public void TriggerOutroAnimation()
+    {
+        animator.SetTrigger("Trigger_Outro");
     }
 }

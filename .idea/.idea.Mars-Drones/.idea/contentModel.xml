@@ -20,6 +20,7 @@
           </e>
           <e p="ForceCameraRatio.cs" t="Include" />
         </e>
+        <e p="ChangeScene.cs" t="Include" />
         <e p="Demigiant" t="Include">
           <e p="DemiLib" t="Include">
             <e p="Core" t="Include">
@@ -644,6 +645,7 @@
           </e>
           <e p="TextWriterOnLoc.cs" t="Include" />
           <e p="TransitionAnimationHandler.cs" t="Include" />
+          <e p="TranslationOnDemand.cs" t="Include" />
         </e>
         <e p="TextMesh Pro" t="Include">
           <e p="Examples &amp; Extras" t="Include">

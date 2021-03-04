@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+using PixelCrushers.DialogueSystem;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -39,7 +40,11 @@ public class Sphere_Phase_Spawner : Spawner
             }
             else
             {
-                ScreenText.text = "VACIO";
+                ScreenText.text = 
+                    (Localization.Language == "es") ? "VACIO" : 
+                    (Localization.Language == "en") ? "EMPTY" :
+                    "Vácuo";
+                
                 LoadedObject = null;
             }
         }
@@ -101,13 +106,16 @@ public class Sphere_Phase_Spawner : Spawner
             SpawnLocation.PositionElement(go);
         }
 
+        TranslationOnDemand screenScript = ScreenText.GetComponent<TranslationOnDemand>();
+
         if (Sphere_Phase_Manager.Instance.isThisPhase2)
         {
-            ScreenText.text = go.GetComponent<AdditionalData>().StringedSecType;
+            // screenScript.objType = go.GetComponent<AdditionalData>().StringedSecType;
+            screenScript.RealTimeTranslator(go.GetComponent<AdditionalData>().StringedSecType);
         }
         else
         {
-            ScreenText.text = go.GetComponent<AdditionalData>().StringedType;
+            screenScript.RealTimeTranslator(go.GetComponent<AdditionalData>().StringedType);
         }
     }
 

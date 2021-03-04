@@ -5,7 +5,6 @@ using UnityEngine.Serialization;
 
 public class ObjectLibrary : MonoBehaviour
 {
-    [FormerlySerializedAs("Entries")]
     public InteractableObjDatabase[] Entries;
 
     [System.Serializable]

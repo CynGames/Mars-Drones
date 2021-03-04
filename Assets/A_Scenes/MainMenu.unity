@@ -590,6 +590,7 @@ GameObject:
   - component: {fileID: 507664298}
   - component: {fileID: 507664300}
   - component: {fileID: 507664299}
+  - component: {fileID: 507664301}
   m_Layer: 5
   m_Name: Text (TMP)
   m_TagString: Untagged
@@ -735,6 +736,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 507664297}
   m_CullTransparentMesh: 0
+--- !u!114 &507664301
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 507664297}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ebc1e90a3491d948bdcfa3c33acd701, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textField: {fileID: 507664299}
+  textES: El juego de las "5 S"
+  textEN: The Game of the "5 S"
+  textPT: O jogo "5 S"
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -1295,6 +1312,7 @@ GameObject:
   - component: {fileID: 1939159203}
   - component: {fileID: 1939159205}
   - component: {fileID: 1939159204}
+  - component: {fileID: 1939159206}
   m_Layer: 0
   m_Name: Text (TMP)
   m_TagString: Untagged
@@ -1440,6 +1458,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1939159202}
   m_CullTransparentMesh: 0
+--- !u!114 &1939159206
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1939159202}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ebc1e90a3491d948bdcfa3c33acd701, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textField: {fileID: 0}
+  textES: "Cr\xE9ditos"
+  textEN: Credits
+  textPT: "Cr\xE9ditos"
 --- !u!1 &2050712109
 GameObject:
   m_ObjectHideFlags: 0

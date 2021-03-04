@@ -1,6 +1,7 @@
 ﻿using CrunchTools.AudioSystem;
 using System.Collections;
 using System.Collections.Generic;
+using PixelCrushers.DialogueSystem;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
@@ -16,7 +17,8 @@ public class GameManager : MonoBehaviour
     public static float Phase4Time = 0;
 
     public bool reset;
-
+    public static string LocSetting = "es";
+    
     private void Awake()
     {
         PlayerPrefs.SetFloat("sfx vol", .15f);
@@ -25,6 +27,8 @@ public class GameManager : MonoBehaviour
     private void Start()
     {
         isPaused = false;
+        
+        Localization.Language = LocSetting;
     }
 
     private void Update()
