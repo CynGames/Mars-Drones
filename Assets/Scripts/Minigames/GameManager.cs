@@ -17,7 +17,7 @@ public class GameManager : MonoBehaviour
     public static float Phase4Time = 0;
 
     public bool reset;
-    public static string LocSetting = "es";
+    public static string LocSetting = "en";
     
     private void Awake()
     {
@@ -40,15 +40,11 @@ public class GameManager : MonoBehaviour
     {
         isPaused = true;
         Time.timeScale = 0;
-
-        Debug.Log("Paused");
     }
 
     public static void ResumeGame()
     {
         isPaused = false;
         Time.timeScale = 1;
-
-        Debug.Log("Resumed");
     }
 }

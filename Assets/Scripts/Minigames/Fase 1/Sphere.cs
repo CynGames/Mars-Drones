@@ -9,10 +9,17 @@ public class Sphere : MonoBehaviour
     [SerializeField] Vector2 TargetPosition;
 
     [SerializeField] float delayTimer = .1f;
-    [SerializeField] float lerpTimer;
-
+    private ButtonPushing _fireButton;
+    
+    void Start()
+    {
+        _fireButton = _fireButton ?? FindObjectOfType<ButtonPushing>();
+    }
+    
     private void Update()
     {
+        if (!_fireButton.isReadyToPush) return;
+        
         if (Input.touchCount > 0)
         {
             if (Input.GetTouch(0).phase == TouchPhase.Moved)
@@ -23,8 +30,6 @@ public class Sphere : MonoBehaviour
                 {
                     TargetPosition = Camera.main.ScreenToWorldPoint(Input.GetTouch(0).position);
 
-                    lerpTimer += Time.deltaTime;
-
                     Rotation();
                 }
             }
@@ -34,7 +39,7 @@ public class Sphere : MonoBehaviour
                 delayTimer = .1f;
             }
         }
-        else if (Input.GetMouseButton(1))
+        else if (Input.GetMouseButton(0))
         {
             delayTimer -= Time.deltaTime;
 
@@ -42,17 +47,9 @@ public class Sphere : MonoBehaviour
             {
                 TargetPosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
 
-                lerpTimer += Time.deltaTime;
-
                 Rotation();
             }
         }
-        else
-        {
-            lerpTimer = 0;
-        }
-
-
     }
 
     public void Rotation()

@@ -18,8 +18,6 @@ public class Arrange_Phase_Placement : Placement
     {
         if (elementBehaviour.data.SecType.ToString() == SecType.ToString())
         {
-            Debug.Log("true");
-
             if(AudioManager.Instance != null) AudioManager.Instance.PlaySound2D("Exito");
 
             Sphere_Phase_Manager.PlacedElements++;
@@ -28,8 +26,6 @@ public class Arrange_Phase_Placement : Placement
         }
         else
         {
-            Debug.Log("false");
-
             return false;
         }
     }

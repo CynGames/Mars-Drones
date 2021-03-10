@@ -465,7 +465,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Presiona el dibujo en el centro de la pantalla para continuar
+  m_text: Presiona el dibujo en el centro de la pantalla para continuar.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -534,7 +534,7 @@ MonoBehaviour:
   m_margin: {x: -339.86212, y: 0, z: -412.5046, w: -460.7713}
   m_textInfo:
     textComponent: {fileID: 246478448}
-    characterCount: 61
+    characterCount: 62
     spriteCount: 0
     spaceCount: 10
     wordCount: 11
@@ -599,7 +599,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   checkForLocSettings: 0
   textField: {fileID: 246478448}
-  textES: Presiona el dibujo en le centro de la pantalla para continuar.
+  textES: Presiona el dibujo en el centro de la pantalla para continuar.
   textEN: Press the drawing in the center of the screen to continue.
   textPT: Pressione o desenho no centro da tela para continuar.
 --- !u!1 &312554271
@@ -1003,7 +1003,19 @@ MonoBehaviour:
     will also see how efficient you were when comparing the initial and final times
     of assembly.\r\n\nLearn by playing and then replicate it in your everyday work
     spaces.\r"
-  textPT: 
+  textPT: "<b><size=1.5em>Objetivo do jogo</size></b>\n\nMars Drones tem como objetivo
+    apresentar a metodologia do mundo dos 5s para que voc\xEA possa aprender o significado
+    de cada \u201CS\u201D, a forma como \xE9 implementado e o impacto que tem na
+    produtividade.\r\n\nAo iniciar o jogo, voc\xEA ter\xE1 que montar drones em um
+    ambiente de trabalho bagun\xE7ado que dever\xE1 acomodar tela por tela, tendo
+    como refer\xEAncia as instru\xE7\xF5es que ir\xE3o aparecer.\r\n\nO tempo ser\xE1
+    seu principal recurso para otimizar, portanto, quanto mais ordenado voc\xEA puder
+    trabalhar, menores ser\xE3o os tempos de fabrica\xE7\xE3o.\r\n\nDepois de implementar
+    cada \"S\", voc\xEA poder\xE1 ver quanto tempo gastou nessa fase para poder se
+    comparar com outros colegas que j\xE1 jogaram.\r\n\nNo final do jogo voc\xEA
+    poder\xE1 ver o qu\xE3o eficiente voc\xEA foi ao comparar os tempos de montagem
+    inicial e final.\r\n\nAprenda brincando e, em seguida, reproduza-o em seus espa\xE7os
+    de trabalho di\xE1rios.\r"
 --- !u!1 &588810016
 GameObject:
   m_ObjectHideFlags: 0

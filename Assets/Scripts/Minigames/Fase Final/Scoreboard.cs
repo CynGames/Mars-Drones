@@ -63,7 +63,7 @@ public class Scoreboard : MonoBehaviour
     {
         float t = Mathf.RoundToInt(phaseTime);
         string minutes = ((int)t / 60).ToString("0#");
-        string seconds = (t % 60).ToString("#");
+        string seconds = (t % 60).ToString("0#");
 
         textClock.text = minutes + " : " + seconds + " ";
     }

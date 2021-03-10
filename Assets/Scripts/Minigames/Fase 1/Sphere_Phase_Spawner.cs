@@ -110,13 +110,13 @@ public class Sphere_Phase_Spawner : Spawner
 
         if (Sphere_Phase_Manager.Instance.isThisPhase2)
         {
-            // screenScript.objType = go.GetComponent<AdditionalData>().StringedSecType;
             screenScript.RealTimeTranslator(go.GetComponent<AdditionalData>().StringedSecType);
         }
         else
         {
             screenScript.RealTimeTranslator(go.GetComponent<AdditionalData>().StringedType);
         }
+
     }
 
     public void Shoot(Transform target)

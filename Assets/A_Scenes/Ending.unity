@@ -2530,7 +2530,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   CurrentObjective_ES: "Ning\xFAn objetivo actual."
   CurrentObjective_EN: No current objective.
-  CurrentObjective_PT: 
+  CurrentObjective_PT: Nenhum objetivo atual.
 --- !u!114 &1303363382
 MonoBehaviour:
   m_ObjectHideFlags: 0

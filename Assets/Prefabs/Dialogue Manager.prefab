@@ -188,7 +188,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   esHeaderContent: ORDEN
   enHeaderContent: SET IN ORDER
-  ptHeaderContent: 
+  ptHeaderContent: ORDEM
 --- !u!1 &813706478
 GameObject:
   m_ObjectHideFlags: 0
@@ -377,7 +377,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   esHeaderContent: "DISCIPLINA Y H\xC1BITO"
   enHeaderContent: DISCIPLINE AND HABIT
-  ptHeaderContent: 
+  ptHeaderContent: "DISCIPLINA E H\xC1BITO"
 --- !u!1 &1443435988
 GameObject:
   m_ObjectHideFlags: 0
@@ -566,7 +566,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   esHeaderContent: "ESTANDARIZACI\xD3N"
   enHeaderContent: STANDARDIZATION
-  ptHeaderContent: 
+  ptHeaderContent: "ESTANDARDIZA\xC7\xC3O"
 --- !u!1 &1759086965
 GameObject:
   m_ObjectHideFlags: 0
@@ -829,7 +829,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   esHeaderContent: LIMPIEZA
   enHeaderContent: 'CLEANING '
-  ptHeaderContent: 
+  ptHeaderContent: LIMPEZA
 --- !u!1 &2431236497143658745
 GameObject:
   m_ObjectHideFlags: 0
@@ -1060,7 +1060,7 @@ MonoBehaviour:
       m_uiText: {fileID: 2431236497517968987}
     queueAlerts: 1
     dontQueueDuplicates: 0
-    waitForHideAnimation: 1
+    waitForHideAnimation: 0
     allowForceImmediate: 0
   conversationUIElements:
     mainPanel: {fileID: 2431236498661094625}
@@ -1168,6 +1168,7 @@ GameObject:
   - component: {fileID: 2431236497194041356}
   - component: {fileID: 2431236497194041357}
   - component: {fileID: 2431236497194041347}
+  - component: {fileID: 2431236498266630528}
   m_Layer: 5
   m_Name: Continue
   m_TagString: Untagged
@@ -1389,6 +1390,23 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+--- !u!114 &2431236498266630528
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2431236497194041359}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ebc1e90a3491d948bdcfa3c33acd701, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  checkForLocSettings: 1
+  textField: {fileID: 0}
+  textES: Continuar
+  textEN: Continue
+  textPT: Continuar
 --- !u!1 &2431236497209799735
 GameObject:
   m_ObjectHideFlags: 0
@@ -3387,7 +3405,7 @@ MonoBehaviour:
   accumulateText: 0
   delayTypewriterUntilOpen: 0
   continueButton: {fileID: 2431236497607558179}
-  visibility: 0
+  visibility: 2
   focusAnimationTrigger: 
   unfocusAnimationTrigger: 
   useAnimatedPortraits: 0
@@ -3827,6 +3845,7 @@ GameObject:
   - component: {fileID: 2431236498130050868}
   - component: {fileID: 2431236498130050858}
   - component: {fileID: 2431236498130050859}
+  - component: {fileID: 3162891979960178451}
   m_Layer: 5
   m_Name: Title
   m_TagString: Untagged
@@ -3972,6 +3991,23 @@ MonoBehaviour:
   - {fileID: 0}
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!114 &3162891979960178451
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2431236498130050869}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ebc1e90a3491d948bdcfa3c33acd701, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  checkForLocSettings: 1
+  textField: {fileID: 0}
+  textES: Pausa
+  textEN: Pause
+  textPT: Pausa
 --- !u!1 &2431236498162096508
 GameObject:
   m_ObjectHideFlags: 0
@@ -5001,7 +5037,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   esHeaderContent: SELECCION
   enHeaderContent: SELECTION
-  ptHeaderContent: 
+  ptHeaderContent: "SELE\xC7\xC3O"
 --- !u!1 &2431236498532754736
 GameObject:
   m_ObjectHideFlags: 0
@@ -6271,6 +6307,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isPlayingAnimation: 0
+  playOnStart: 1
   transitionAnimator: {fileID: 2431236498750904160}
 --- !u!1 &2431236498813076943
 GameObject:
@@ -7267,6 +7304,7 @@ GameObject:
   - component: {fileID: 2431236499233284879}
   - component: {fileID: 2431236499233284872}
   - component: {fileID: 2431236499233284878}
+  - component: {fileID: 4460603388760963654}
   m_Layer: 5
   m_Name: Quit
   m_TagString: Untagged
@@ -7320,7 +7358,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Volver al Menu Principal
+  m_text: "Volver al Men\xFA Principal"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: e73a58f6e2794ae7b1b7e50b7fb811b0, type: 2}
@@ -7488,6 +7526,23 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+--- !u!114 &4460603388760963654
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2431236499233284874}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ebc1e90a3491d948bdcfa3c33acd701, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  checkForLocSettings: 1
+  textField: {fileID: 0}
+  textES: "Volver al Men\xFA Principal"
+  textEN: Back to Main Menu
+  textPT: Voltar ao menu principal
 --- !u!1 &5507280615774064245
 GameObject:
   m_ObjectHideFlags: 0
@@ -7655,6 +7710,7 @@ GameObject:
   - component: {fileID: 220819904627368177}
   - component: {fileID: 6956026417653531187}
   - component: {fileID: 2304443838438006160}
+  - component: {fileID: 8237440845809530720}
   m_Layer: 5
   m_Name: Current Obj Header
   m_TagString: Untagged
@@ -7800,3 +7856,20 @@ MonoBehaviour:
   - {fileID: 0}
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!114 &8237440845809530720
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8657006402777443213}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ebc1e90a3491d948bdcfa3c33acd701, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  checkForLocSettings: 1
+  textField: {fileID: 0}
+  textES: Objetivo Actual
+  textEN: Current Objective
+  textPT: Objetivo Atual

@@ -33,14 +33,24 @@ public class TranslationOnDemand : MonoBehaviour
     
     private string TranslateToES(string currentTextDisplayed)
     {
-        if (currentTextDisplayed.Equals("FABRICAÇÃO") || currentTextDisplayed.Equals("MANUFACTURING"))
+        if (currentTextDisplayed.Equals("FABRICACION"))
         {
             return "FABRICACION";
         }
         
-        if (currentTextDisplayed.Equals("FERRAMENTA") || currentTextDisplayed.Equals("TOOL"))
+        if (currentTextDisplayed.Equals("HERRAMIENTA"))
         {
             return "HERRAMIENTA";
+        }
+
+        if (currentTextDisplayed.Equals("ELECTRICO")) 
+        {
+            return "ELECTRICO";
+        }
+        
+        if (currentTextDisplayed.Equals("MECANICO"))
+        {
+            return "MECANICO";
         }
         
         return "BASURA";
@@ -48,14 +58,24 @@ public class TranslationOnDemand : MonoBehaviour
     
     private string TranslateToEN(string currentTextDisplayed)
     {
-        if (currentTextDisplayed.Equals("FABRICAÇÃO") || currentTextDisplayed.Equals("FABRICACION"))
+        if (currentTextDisplayed.Equals("FABRICACION"))
         {
             return "MANUFACTURING";
         }
         
-        if (currentTextDisplayed.Equals("FERRAMENTA") || currentTextDisplayed.Equals("HERRAMIENTA"))
+        if (currentTextDisplayed.Equals("HERRAMIENTA"))
         {
             return "TOOL";
+        }
+        
+        if (currentTextDisplayed.Equals("ELECTRICO")) 
+        {
+            return "ELECTRIC";
+        }
+        
+        if (currentTextDisplayed.Equals("MECANICO"))
+        {
+            return "MECHANICAL";
         }
         
         return "TRASH";
@@ -63,14 +83,24 @@ public class TranslationOnDemand : MonoBehaviour
 
     private string TranslateToPT(string currentTextDisplayed)
     {
-        if (currentTextDisplayed.Equals("FABRICACION") || currentTextDisplayed.Equals("MANUFACTURING"))
+        if (currentTextDisplayed.Equals("FABRICACION"))
         {
             return "FABRICAÇÃO";
         }
         
-        if (currentTextDisplayed.Equals("HERRAMIENTA") || currentTextDisplayed.Equals("MANUFACTURING"))
+        if (currentTextDisplayed.Equals("HERRAMIENTA"))
         {
             return "FERRAMENTA";
+        }
+        
+        if (currentTextDisplayed.Equals("ELECTRICO")) 
+        {
+            return "ELÉTRICO";
+        }
+        
+        if (currentTextDisplayed.Equals("MECANICO"))
+        {
+            return "MECÂNICO";
         }
         
         return "LIXO";

@@ -2075,7 +2075,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   CurrentObjective_ES: "Arrastra los elementos a los casilleros correspondientes.\r"
   CurrentObjective_EN: Drag the items to the corresponding boxes.
-  CurrentObjective_PT: 
+  CurrentObjective_PT: Arraste os itens para as caixas correspondentes.
 --- !u!1 &836879977
 GameObject:
   m_ObjectHideFlags: 0

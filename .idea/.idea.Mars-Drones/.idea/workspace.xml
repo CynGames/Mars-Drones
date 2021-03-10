@@ -20,19 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e52e1de4-6c8a-48b6-b243-1a6415c58581" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Animaciones/Transicion/Intro.controller" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animaciones/Transicion/Intro.controller.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animaciones/Transicion/LangAnim.anim" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animaciones/Transicion/LangAnim.anim.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animaciones/Transicion/Lang_Idle.anim" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animaciones/Transicion/Lang_Idle.anim.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animaciones/Transicion/Lang_Outroanim.anim" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animaciones/Transicion/Lang_Outroanim.anim.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animaciones/Transicion/Lang_offscreen.anim" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animaciones/Transicion/Lang_offscreen.anim.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ChangeScene.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/TranslationOnDemand.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Mars-Drones/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Mars-Drones/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Mars-Drones/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Mars-Drones/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/A_Scenes/Ending.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/A_Scenes/Ending.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/A_Scenes/Fase 0.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/A_Scenes/Fase 0.unity" afterDir="false" />
@@ -46,14 +33,21 @@
       <change beforePath="$PROJECT_DIR$/Assets/A_Scenes/MidTempo 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/A_Scenes/MidTempo 1.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/A_Scenes/MidTempo 2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/A_Scenes/MidTempo 2.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/A_Scenes/MidTempo 3.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/A_Scenes/MidTempo 3.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/LocButtons.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/LocButtons.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Mars Drones Dialogues (Auto-Backup).asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Mars Drones Dialogues (Auto-Backup).asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Mars Drones Dialogues (Auto-Backup).asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Mars Drones Dialogues (Auto-Backup).asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Mars Drones Dialogues.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Mars Drones Dialogues.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Dialogue Manager.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Dialogue Manager.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Cheating.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Cheating.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 1/ButtonPushing.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 1/ButtonPushing.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 1/Sphere.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 1/Sphere.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 1/Sphere_Phase_Spawner.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 1/Sphere_Phase_Spawner.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 2/Arrange_Phase_Placement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 2/Arrange_Phase_Placement.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase Final/Scoreboard.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase Final/Scoreboard.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Minigames/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Minigames/GameManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Minigames/General/ObjectLibrary.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Minigames/General/ObjectLibrary.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/TextWriterOnLoc.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/TextWriterOnLoc.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/TranslationOnDemand.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/TranslationOnDemand.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Bangers SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Bangers SDF.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Oswald Bold SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Oswald Bold SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +58,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/DragRigidBody2D/Scripts/DragRigidBody2D.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Elements/AdditionalData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 0/Matching_Phase_Spawner.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TextWriterOnLoc.cs" root0="FORCE_HIGHLIGHTING" />
@@ -91,8 +86,10 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/LocButtons.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 1/Sphere_Phase_Manager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 1/Sphere_Phase_Placement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 1/Sphere.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 1/Sphere_Phase_Spawner.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/88B20DE7-DAFA-46B6-8023-5A9937B07B34/35/28675d32/Localization.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 1/ButtonPushing.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Lights/RecallManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 2/Arrange_Phase_Placement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Helpers/ListUtils.cs" root0="FORCE_HIGHLIGHTING" />
@@ -103,7 +100,6 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/AudioSystem/AudioManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Manager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MMButtons.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 2/Arrange_Phase_Placement.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 1/Sphere_Phase_Placement.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Minigames/General/QueueAssembler.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 0/Matching_Phase_Spawner.cs" />
@@ -116,11 +112,15 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Minigames/General/Objective.cs" />
         <option value="$PROJECT_DIR$/Assets/ChangeScene.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/LocButtons.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Minigames/GameManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Minigames/General/ObjectLibrary.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 1/Sphere_Phase_Spawner.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/TextWriterOnLoc.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 1/Sphere_Phase_Spawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Minigames/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 1/Sphere.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 2/Arrange_Phase_Placement.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/TranslationOnDemand.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 1/ButtonPushing.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Cheating.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase Final/Scoreboard.cs" />
       </list>
     </option>
@@ -179,6 +179,7 @@
       <workItem from="1614223241999" duration="2126000" />
       <workItem from="1614290525924" duration="13383000" />
       <workItem from="1614858218485" duration="9497000" />
+      <workItem from="1615308863494" duration="7092000" />
     </task>
     <servers />
   </component>

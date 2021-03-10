@@ -1600,7 +1600,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1186938668}
   - component: {fileID: 1186938667}
-  - component: {fileID: 1186938666}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -1608,14 +1607,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!81 &1186938666
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1186938665}
-  m_Enabled: 1
 --- !u!20 &1186938667
 Camera:
   m_ObjectHideFlags: 0
@@ -1926,7 +1917,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   CurrentObjective_ES: "Ning\xFAn objetivo actual."
   CurrentObjective_EN: No current objective.
-  CurrentObjective_PT: 
+  CurrentObjective_PT: Nenhum objetivo atual.
 --- !u!114 &1303363382
 MonoBehaviour:
   m_ObjectHideFlags: 0

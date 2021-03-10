@@ -1601,7 +1601,7 @@ MonoBehaviour:
   CurrentObjective_ES: Arrastra los elementos a los casilleros correspondientes de
     forma eficiente.
   CurrentObjective_EN: Drag items to the corresponding boxes efficiently.
-  CurrentObjective_PT: 
+  CurrentObjective_PT: Arraste os itens para as caixas correspondentes de forma eficiente.
 --- !u!1 &836879977
 GameObject:
   m_ObjectHideFlags: 0

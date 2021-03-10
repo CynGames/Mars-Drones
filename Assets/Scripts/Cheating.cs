@@ -26,6 +26,11 @@ public class Cheating : MonoBehaviour
             
             manager.MinigameOver();
         }
+
+        if (Input.GetKeyDown(KeyCode.P))
+        {
+            ChampionsClubMember();
+        }
     }
 
     [ContextMenu("Champions Club Member")]

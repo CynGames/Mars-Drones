@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using PixelCrushers.DialogueSystem;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -10,7 +11,7 @@ public class ButtonPushing : MonoBehaviour
     [SerializeField] Transform target;
 
     Image Image;
-    bool isReadyToPush;
+    public bool isReadyToPush = true;
 
     private void Awake()
     {
@@ -19,7 +20,7 @@ public class ButtonPushing : MonoBehaviour
 
     public void OnPress()
     {
-        if (isReadyToPush == true)
+        if (isReadyToPush)
         {
             isReadyToPush = false;
             Image.sprite = PressedButton;
@@ -29,11 +30,20 @@ public class ButtonPushing : MonoBehaviour
 
     public void OnReleased()
     {
-        if (isReadyToPush == false)
+        if (!isReadyToPush)
         {
             isReadyToPush = true;
             Image.sprite = ReleasedButton;
         }
     }
     
+    public void OnConvoStart()
+    {
+        isReadyToPush = false;
+    }
+
+    public void OnConvoEnd()
+    {
+        isReadyToPush = true;
+    }
 }
