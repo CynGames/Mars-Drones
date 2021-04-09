@@ -20,33 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e52e1de4-6c8a-48b6-b243-1a6415c58581" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/AB_Arte/Logos/JICA_Logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AB_Arte/Logos/JICA_Logo.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ConversationValidator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ConversationValidator.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Mars-Drones/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Mars-Drones/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Mars-Drones/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Mars-Drones/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/A_Scenes/Ending.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/A_Scenes/Ending.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/A_Scenes/Fase 0.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/A_Scenes/Fase 0.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/A_Scenes/Fase 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/A_Scenes/Fase 1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/A_Scenes/Fase 2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/A_Scenes/Fase 2.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/A_Scenes/Fase 3.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/A_Scenes/Fase 3.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/A_Scenes/Fase 4.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/A_Scenes/Fase 4.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/A_Scenes/Lang-Selector-Intro.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/A_Scenes/Lang-Selector-Intro.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/A_Scenes/LogoReveal.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/A_Scenes/LogoReveal.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/A_Scenes/MainMenu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/A_Scenes/MainMenu.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/A_Scenes/MidTempo 0.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/A_Scenes/MidTempo 0.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/A_Scenes/MidTempo 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/A_Scenes/MidTempo 1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/A_Scenes/MidTempo 2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/A_Scenes/MidTempo 2.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/A_Scenes/MidTempo 3.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/A_Scenes/MidTempo 3.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Mars Drones Dialogues (Auto-Backup).asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Mars Drones Dialogues (Auto-Backup).asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Mars Drones Dialogues (Auto-Backup).asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Mars Drones Dialogues (Auto-Backup).asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Mars Drones Dialogues.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Mars Drones Dialogues.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Dialogue Manager.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Dialogue Manager.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Cheating.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Cheating.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 1/ButtonPushing.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 1/ButtonPushing.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 1/Sphere.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 1/Sphere.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 1/Sphere_Phase_Spawner.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 1/Sphere_Phase_Spawner.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 2/Arrange_Phase_Placement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 2/Arrange_Phase_Placement.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase Final/Scoreboard.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase Final/Scoreboard.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Cutscenes/IntroEffects.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Cutscenes/IntroEffects.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MMButtons.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MMButtons.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Minigames/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Minigames/GameManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/TranslationOnDemand.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/TranslationOnDemand.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Bangers SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Bangers SDF.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,12 +49,15 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TextWriterOnLoc.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TranslationOnDemand.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MMButtons.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Cutscenes/CreditsEffects.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Minigames/General/SpawnLocation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Cutscenes/IntroEffects.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Manager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Minigames/General/QueueAssembler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Minigames/General/ObjectLibrary.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Minigames/Fase Final/Scoreboard.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ButtonsFunctions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/Pixel Crushers/Dialogue System/Wrappers/Save System/GameSaver.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Minigames/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Boundaries/SoftBoundaries.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Minigames/S_Headers.cs" root0="FORCE_HIGHLIGHTING" />
@@ -93,13 +81,13 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Lights/RecallManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 2/Arrange_Phase_Placement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Helpers/ListUtils.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ConversationValidator.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/AudioSystem/AudioManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Manager.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/MMButtons.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 1/Sphere_Phase_Placement.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Minigames/General/QueueAssembler.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 0/Matching_Phase_Spawner.cs" />
@@ -115,13 +103,16 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Minigames/General/ObjectLibrary.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/TextWriterOnLoc.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 1/Sphere_Phase_Spawner.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Minigames/GameManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 1/Sphere.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 2/Arrange_Phase_Placement.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/TranslationOnDemand.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase 1/ButtonPushing.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Cheating.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Minigames/Fase Final/Scoreboard.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MMButtons.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Cutscenes/IntroEffects.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ConversationValidator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Minigames/GameManager.cs" />
       </list>
     </option>
   </component>
@@ -180,6 +171,8 @@
       <workItem from="1614290525924" duration="13383000" />
       <workItem from="1614858218485" duration="9497000" />
       <workItem from="1615308863494" duration="7092000" />
+      <workItem from="1616141494991" duration="1570000" />
+      <workItem from="1616181862762" duration="1252000" />
     </task>
     <servers />
   </component>
@@ -209,9 +202,9 @@
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state x="92" y="92" width="1674" height="896" key="VCS.FileHistoryDialog/0.0.1858.1080/-1920.0.1858.1080@0.0.1858.1080" timestamp="1614299619284" />
-    <state x="592" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1612270558620">
+    <state x="592" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1616183750381">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="592" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1858.1080/-1920.0.1858.1080@0.0.1858.1080" timestamp="1612270558620" />
+    <state x="592" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1858.1080/-1920.0.1858.1080@0.0.1858.1080" timestamp="1616183750381" />
   </component>
 </project>

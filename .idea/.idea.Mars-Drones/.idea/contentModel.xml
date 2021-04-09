@@ -563,6 +563,7 @@
           <e p="ButtonsFunctions.cs" t="Include" />
           <e p="Cheating.cs" t="Include" />
           <e p="Conversation_Raycast_Blocker.cs" t="Include" />
+          <e p="ConversationValidator.cs" t="Include" />
           <e p="Cutscenes" t="Include">
             <e p="CreditsEffects.cs" t="Include" />
             <e p="FadeScreen.cs" t="Include" />

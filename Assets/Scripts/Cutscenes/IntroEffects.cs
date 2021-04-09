@@ -11,11 +11,13 @@ public class IntroEffects : MonoBehaviour
 {
     [SerializeField] protected GameObject FirstSlide;
     [SerializeField] public GameObject SecondSlide;
+    [SerializeField] public GameObject FakeThirdSlide;
 
     protected void Start()    
     {
         gameObject.GetComponent<Image>().material.DOFade(1, 0);
 
+        transform.SetSiblingIndex(transform.parent.childCount);
         LogoRevealSequence();
     }
 
@@ -39,9 +41,22 @@ public class IntroEffects : MonoBehaviour
 
     protected virtual void SecondFadeIn()
     {
-        gameObject.GetComponent<Image>().DOFade(1, 3).OnComplete(EndCutscene);
+        gameObject.GetComponent<Image>().DOFade(1, 3).OnComplete(ThirdSlideMethod);
     }
 
+    private void ThirdSlideMethod()
+    {
+        SecondSlide.SetActive(false);
+        FakeThirdSlide.SetActive(true);
+
+        gameObject.GetComponent<Image>().DOFade(0, 3).OnComplete(ThirdFade);
+    }
+
+    protected virtual void ThirdFade()
+    {
+        gameObject.GetComponent<Image>().DOFade(1, 3).OnComplete(EndCutscene);
+    }
+    
     protected virtual void EndCutscene()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);

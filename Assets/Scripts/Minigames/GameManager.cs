@@ -17,7 +17,7 @@ public class GameManager : MonoBehaviour
     public static float Phase4Time = 0;
 
     public bool reset;
-    public static string LocSetting = "en";
+    public static string LocSetting = "es";
     
     private void Awake()
     {

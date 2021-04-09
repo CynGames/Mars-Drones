@@ -24,6 +24,7 @@ public class MMButtons : MonoBehaviour
 
     public void StartGame()
     {
+        ConversationValidator.hasStartedGame = true;
         AnalyticsEvent.LevelStart("FirstLevel");
         ButtonsFunctions.Instance.ChangeScene("Fase 0");
     }
